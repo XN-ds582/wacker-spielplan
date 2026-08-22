@@ -52,7 +52,8 @@
       <button class="knopf" data-kopiere="wacker-a-junioren.ics">Adresse kopieren</button>
     </div>
     <p class="wink">Auf iPhone, iPad und Mac genügt <em>Abonnieren</em>.
-      <em>In Google Kalender</em> öffnet den Dialog am Rechner direkt.</p>
+      <em>In Google Kalender</em> kopiert die Adresse und öffnet Googles
+      Dialog — dort ins Feld einfügen.</p>
     <details><summary>Adresse anzeigen</summary>
       <code data-datei="wacker-a-junioren.ics"></code></details>
   </div>
@@ -66,7 +67,8 @@
       <button class="knopf" data-kopiere="wacker-b-junioren.ics">Adresse kopieren</button>
     </div>
     <p class="wink">Auf iPhone, iPad und Mac genügt <em>Abonnieren</em>.
-      <em>In Google Kalender</em> öffnet den Dialog am Rechner direkt.</p>
+      <em>In Google Kalender</em> kopiert die Adresse und öffnet Googles
+      Dialog — dort ins Feld einfügen.</p>
     <details><summary>Adresse anzeigen</summary>
       <code data-datei="wacker-b-junioren.ics"></code></details>
   </div>
@@ -78,8 +80,11 @@
     Kunstrasen) und der Spielort mit Anschrift.</p>
 
     <h3>Android und Google Kalender</h3>
-    <ul><li>Am einfachsten der Knopf <i>In Google Kalender</i> oben — er
-    öffnet den Dialog mit fertig eingesetzter Adresse.</li>
+    <ul><li>Der Knopf <i>In Google Kalender</i> oben legt die Adresse in die
+    Zwischenablage und öffnet Googles Dialog; dort ins Feld einfügen.
+    Google übernimmt den Namen nicht — der Kalender heißt danach wie eine
+    Zufallskennung und will einmal umbenannt werden (<b>⋮</b> →
+    <i>Einstellungen</i> → <i>Name</i>).</li>
     <li>Von Hand: <b>calendar.google.com</b> → links bei „Weitere Kalender" auf
     <b>+</b> → <i>Per URL</i> → Adresse einsetzen. Geht nur am Rechner, in der
     Handy-App gibt es die Auswahl nicht; auf dem Telefon erscheint der
@@ -109,13 +114,25 @@
   const pfad = location.pathname.replace(/index\.html$/, "").replace(/\/?$/, "/");
   const wurzel = location.origin + pfad;
   const abo = "webcal://" + location.host + pfad;
-  // Fuer Google weiterhin die CDN-Adresse: nur die traegt den Zeichensatz.
-  const cdn = "webcal://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/";
+  // Fuer Google die CDN-Adresse: nur die traegt "charset=utf-8" im Kopf.
+  const cdn = "https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/";
   document.querySelectorAll("[data-datei]").forEach(el => el.textContent = wurzel + el.dataset.datei);
   document.querySelectorAll("[data-abo]").forEach(el => el.href = abo + el.dataset.abo);
-  // Die dokumentierte Form: cid mit webcal-Schema, unkodiert.
-  document.querySelectorAll("[data-google]").forEach(el => el.href =
-    "https://www.google.com/calendar/render?cid=" + cdn + el.dataset.google);
+  // KEIN "render?cid=" MEHR. Dieser Link laesst Google den Feed selbst
+  // zufuegen -- ist er im Konto schon abonniert, loest Google ihn auf die
+  // interne Kennung des vorhandenen Abos auf und antwortet dann mit
+  // "kein Zugriff auf diesen Kalender". Der Kalender ist da, der Link
+  // fuehrt bloss ins Leere. Deshalb: Adresse in die Zwischenablage,
+  // Googles Zufuegen-Dialog daneben oeffnen, einfuegen. Das geht immer,
+  // auch beim zweiten Mal.
+  document.querySelectorAll("[data-google]").forEach(el => {
+    el.href = "https://calendar.google.com/calendar/u/0/r/settings/addcalendar";
+    el.addEventListener("click", async () => {
+      try { await navigator.clipboard.writeText(cdn + el.dataset.google);
+            const alt = el.textContent; el.textContent = "kopiert – einfügen";
+            setTimeout(() => el.textContent = alt, 2600); } catch (e) { }
+    });
+  });
   document.querySelectorAll("[data-kopiere]").forEach(el => el.onclick = async () => {
     try { await navigator.clipboard.writeText(wurzel + el.dataset.kopiere);
           const alt = el.textContent; el.textContent = "kopiert";
