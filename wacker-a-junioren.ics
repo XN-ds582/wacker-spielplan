@@ -31,645 +31,493 @@ BEGIN:VEVENT
 UID:610089002@flb.de
 DTSTAMP:20260822T082725Z
 LAST-MODIFIED:20260822T082725Z
-DTSTART;TZID=Europe/Berlin:20260823T110000
+DTSTART;TZID=Europe/Berlin:20260823T094500
 DTEND;TZID=Europe/Berlin:20260823T124500
 SEQUENCE:1
 SUMMARY:A-Junioren: FC Neuenhagen 1913 – SV Wacker 09 Cottbus-Ströbitz
 LOCATION:Neuenhagen KR1\, Mittelstr. 1\, 15366 Neuenhagen
-DESCRIPTION:Treffpunkt 10:00 Uhr · Anstoß 11:00 Uhr\n\nA-Junioren · Verb
- andsliga · Brandenburgliga\n1. Spieltag · Auswärtsspiel\n\nSpielort: Ne
- uenhagen KR1\, Mittelstr. 1\, 15366 Neuenhagen\nhttps://www.google.com/map
- s/search/?api=1&query=Mittelstr.+1%2C+15366+Neuenhagen\n\nSpielkennung 610
- 089002
+DESCRIPTION:Anstoß 11:00 Uhr · Treffpunkt 09:45 Uhr\nPlatzart: Kunstrasen
+ platz\n\nA-Junioren · Verbandsliga · Brandenburgliga\n1. Spieltag · Aus
+ wärtsspiel\n\nSpielort: Neuenhagen KR1\, Mittelstr. 1\, 15366 Neuenhagen\
+ nhttps://www.google.com/maps/search/?api=1&query=Mittelstr.+1%2C+15366+Neu
+ enhagen\n\nSpielkennung 610089002
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:Treffpunkt Neuenhagen KR1\, Mittelstr. 1\, 15366 Neuenhagen –
-  Anstoß 11:00 Uhr
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:610089009@flb.de
 DTSTAMP:20260822T082725Z
 LAST-MODIFIED:20260822T082725Z
-DTSTART;TZID=Europe/Berlin:20260829T130000
+DTSTART;TZID=Europe/Berlin:20260829T114500
 DTEND;TZID=Europe/Berlin:20260829T144500
 SEQUENCE:0
 SUMMARY:A-Junioren: SV Wacker 09 Cottbus-Ströbitz – SV Dallgow 47
 LOCATION:Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus
-DESCRIPTION:Treffpunkt 12:00 Uhr · Anstoß 13:00 Uhr\n\nA-Junioren · Verb
- andsliga · Brandenburgliga\n2. Spieltag · Heimspiel\n\nSpielort: Kunstra
- senplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus\nhttps://www.google
- .com/maps/search/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\n\nSpielke
- nnung 610089009
+DESCRIPTION:Anstoß 13:00 Uhr · Treffpunkt 11:45 Uhr\nPlatzart: Kunstrasen
+ platz\n\nA-Junioren · Verbandsliga · Brandenburgliga\n2. Spieltag · Hei
+ mspiel\n\nSpielort: Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 
+ Cottbus\nhttps://www.google.com/maps/search/?api=1&query=Zahsower+Str.+12%
+ 2C+03046+Cottbus\n\nSpielkennung 610089009
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:Treffpunkt Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 0304
- 6 Cottbus – Anstoß 13:00 Uhr
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:610089020@flb.de
 DTSTAMP:20260822T082725Z
 LAST-MODIFIED:20260822T082725Z
-DTSTART;TZID=Europe/Berlin:20260906T130000
+DTSTART;TZID=Europe/Berlin:20260906T114500
 DTEND;TZID=Europe/Berlin:20260906T144500
 SEQUENCE:0
 SUMMARY:A-Junioren: SG Bornim – SV Wacker 09 Cottbus-Ströbitz
 LOCATION:Sportplatz Bornim\, Rasen\, Golmer Chaussee 12\, 14469 Potsdam
-DESCRIPTION:Treffpunkt 12:00 Uhr · Anstoß 13:00 Uhr\n\nA-Junioren · Verb
- andsliga · Brandenburgliga\n3. Spieltag · Auswärtsspiel\n\nSpielort: Sp
- ortplatz Bornim\, Rasen\, Golmer Chaussee 12\, 14469 Potsdam\nhttps://www.
- google.com/maps/search/?api=1&query=Golmer+Chaussee+12%2C+14469+Potsdam\n\
- nSpielkennung 610089020
+DESCRIPTION:Anstoß 13:00 Uhr · Treffpunkt 11:45 Uhr\nPlatzart: Rasenplatz
+ \n\nA-Junioren · Verbandsliga · Brandenburgliga\n3. Spieltag · Auswärt
+ sspiel\n\nSpielort: Sportplatz Bornim\, Rasen\, Golmer Chaussee 12\, 14469
+  Potsdam\nhttps://www.google.com/maps/search/?api=1&query=Golmer+Chaussee+
+ 12%2C+14469+Potsdam\n\nSpielkennung 610089020
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:Treffpunkt Sportplatz Bornim\, Rasen\, Golmer Chaussee 12\, 144
- 69 Potsdam – Anstoß 13:00 Uhr
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:610089025@flb.de
 DTSTAMP:20260822T082725Z
 LAST-MODIFIED:20260822T082725Z
-DTSTART;TZID=Europe/Berlin:20260912T110000
+DTSTART;TZID=Europe/Berlin:20260912T094500
 DTEND;TZID=Europe/Berlin:20260912T124500
 SEQUENCE:0
 SUMMARY:A-Junioren: FSV 63 Luckenwalde – SV Wacker 09 Cottbus-Ströbitz
 LOCATION:Ernst-Kloß-Stadion\, An den Ziegeleien 16\, 14943 Luckenwalde
-DESCRIPTION:Treffpunkt 10:00 Uhr · Anstoß 11:00 Uhr\n\nA-Junioren · Verb
- andsliga · Brandenburgliga\n4. Spieltag · Auswärtsspiel\n\nSpielort: Er
- nst-Kloß-Stadion\, An den Ziegeleien 16\, 14943 Luckenwalde\nhttps://www.
- google.com/maps/search/?api=1&query=An+den+Ziegeleien+16%2C+14943+Luckenwa
- lde\n\nSpielkennung 610089025
+DESCRIPTION:Anstoß 11:00 Uhr · Treffpunkt 09:45 Uhr\nPlatzart: Rasenplatz
+ \n\nA-Junioren · Verbandsliga · Brandenburgliga\n4. Spieltag · Auswärt
+ sspiel\n\nSpielort: Ernst-Kloß-Stadion\, An den Ziegeleien 16\, 14943 Luc
+ kenwalde\nhttps://www.google.com/maps/search/?api=1&query=An+den+Ziegeleie
+ n+16%2C+14943+Luckenwalde\n\nSpielkennung 610089025
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:Treffpunkt Ernst-Kloß-Stadion\, An den Ziegeleien 16\, 14943 L
- uckenwalde – Anstoß 11:00 Uhr
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:610089030@flb.de
 DTSTAMP:20260822T082725Z
 LAST-MODIFIED:20260822T082725Z
-DTSTART;TZID=Europe/Berlin:20260919T130000
+DTSTART;TZID=Europe/Berlin:20260919T114500
 DTEND;TZID=Europe/Berlin:20260919T144500
 SEQUENCE:0
 SUMMARY:A-Junioren: SV Wacker 09 Cottbus-Ströbitz – FSV Bernau
 LOCATION:Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus
-DESCRIPTION:Treffpunkt 12:00 Uhr · Anstoß 13:00 Uhr\n\nA-Junioren · Verb
- andsliga · Brandenburgliga\n5. Spieltag · Heimspiel\n\nSpielort: Kunstra
- senplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus\nhttps://www.google
- .com/maps/search/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\n\nSpielke
- nnung 610089030
+DESCRIPTION:Anstoß 13:00 Uhr · Treffpunkt 11:45 Uhr\nPlatzart: Kunstrasen
+ platz\n\nA-Junioren · Verbandsliga · Brandenburgliga\n5. Spieltag · Hei
+ mspiel\n\nSpielort: Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 
+ Cottbus\nhttps://www.google.com/maps/search/?api=1&query=Zahsower+Str.+12%
+ 2C+03046+Cottbus\n\nSpielkennung 610089030
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:Treffpunkt Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 0304
- 6 Cottbus – Anstoß 13:00 Uhr
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:610089037@flb.de
 DTSTAMP:20260822T082725Z
 LAST-MODIFIED:20260822T082725Z
-DTSTART;TZID=Europe/Berlin:20261003T130000
+DTSTART;TZID=Europe/Berlin:20261003T114500
 DTEND;TZID=Europe/Berlin:20261003T144500
 SEQUENCE:0
 SUMMARY:A-Junioren: SV Wacker 09 Cottbus-Ströbitz – SpG Hansa Wittstock 
  /Meyenburg
 LOCATION:Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus
-DESCRIPTION:Treffpunkt 12:00 Uhr · Anstoß 13:00 Uhr\n\nA-Junioren · Verb
- andsliga · Brandenburgliga\n6. Spieltag · Heimspiel\n\nSpielort: Kunstra
- senplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus\nhttps://www.google
- .com/maps/search/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\n\nSpielke
- nnung 610089037
+DESCRIPTION:Anstoß 13:00 Uhr · Treffpunkt 11:45 Uhr\nPlatzart: Kunstrasen
+ platz\n\nA-Junioren · Verbandsliga · Brandenburgliga\n6. Spieltag · Hei
+ mspiel\n\nSpielort: Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 
+ Cottbus\nhttps://www.google.com/maps/search/?api=1&query=Zahsower+Str.+12%
+ 2C+03046+Cottbus\n\nSpielkennung 610089037
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:Treffpunkt Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 0304
- 6 Cottbus – Anstoß 13:00 Uhr
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:610089049@flb.de
 DTSTAMP:20260822T082725Z
 LAST-MODIFIED:20260822T082725Z
-DTSTART;TZID=Europe/Berlin:20261011T120000
+DTSTART;TZID=Europe/Berlin:20261011T104500
 DTEND;TZID=Europe/Berlin:20261011T134500
 SEQUENCE:0
 SUMMARY:A-Junioren: SV Falkensee-Finkenkrug – SV Wacker 09 Cottbus-Ströb
  itz
 LOCATION:Sportpark Rosenstraße\, Hauptplatz\, Rosenstr.\, 14612 Falkensee
-DESCRIPTION:Treffpunkt 11:00 Uhr · Anstoß 12:00 Uhr\n\nA-Junioren · Verb
- andsliga · Brandenburgliga\n7. Spieltag · Auswärtsspiel\n\nSpielort: Sp
- ortpark Rosenstraße\, Hauptplatz\, Rosenstr.\, 14612 Falkensee\nhttps://w
- ww.google.com/maps/search/?api=1&query=Rosenstr.%2C+14612+Falkensee\n\nSpi
- elkennung 610089049
+DESCRIPTION:Anstoß 12:00 Uhr · Treffpunkt 10:45 Uhr\nPlatzart: Rasenplatz
+ \n\nA-Junioren · Verbandsliga · Brandenburgliga\n7. Spieltag · Auswärt
+ sspiel\n\nSpielort: Sportpark Rosenstraße\, Hauptplatz\, Rosenstr.\, 1461
+ 2 Falkensee\nhttps://www.google.com/maps/search/?api=1&query=Rosenstr.%2C+
+ 14612+Falkensee\n\nSpielkennung 610089049
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:Treffpunkt Sportpark Rosenstraße\, Hauptplatz\, Rosenstr.\, 14
- 612 Falkensee – Anstoß 12:00 Uhr
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:610089054@flb.de
 DTSTAMP:20260822T082725Z
 LAST-MODIFIED:20260822T082725Z
-DTSTART;TZID=Europe/Berlin:20261107T130000
+DTSTART;TZID=Europe/Berlin:20261107T114500
 DTEND;TZID=Europe/Berlin:20261107T144500
 SEQUENCE:0
 SUMMARY:A-Junioren: SV 1908 Grün-Weiss Ahrensfelde – SV Wacker 09 Cottbu
  s-Ströbitz
 LOCATION:Jahnsportstätte\, KR1\, Ulmenallee 42\, 16356 Ahrensfelde
-DESCRIPTION:Treffpunkt 12:00 Uhr · Anstoß 13:00 Uhr\n\nA-Junioren · Verb
- andsliga · Brandenburgliga\n8. Spieltag · Auswärtsspiel\n\nSpielort: Ja
- hnsportstätte\, KR1\, Ulmenallee 42\, 16356 Ahrensfelde\nhttps://www.goog
- le.com/maps/search/?api=1&query=Ulmenallee+42%2C+16356+Ahrensfelde\n\nSpie
- lkennung 610089054
+DESCRIPTION:Anstoß 13:00 Uhr · Treffpunkt 11:45 Uhr\nPlatzart: Kunstrasen
+ platz\n\nA-Junioren · Verbandsliga · Brandenburgliga\n8. Spieltag · Aus
+ wärtsspiel\n\nSpielort: Jahnsportstätte\, KR1\, Ulmenallee 42\, 16356 Ah
+ rensfelde\nhttps://www.google.com/maps/search/?api=1&query=Ulmenallee+42%2
+ C+16356+Ahrensfelde\n\nSpielkennung 610089054
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:Treffpunkt Jahnsportstätte\, KR1\, Ulmenallee 42\, 16356 Ahren
- sfelde – Anstoß 13:00 Uhr
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:610089058@flb.de
 DTSTAMP:20260822T082725Z
 LAST-MODIFIED:20260822T082725Z
-DTSTART;TZID=Europe/Berlin:20261114T130000
+DTSTART;TZID=Europe/Berlin:20261114T114500
 DTEND;TZID=Europe/Berlin:20261114T144500
 SEQUENCE:0
 SUMMARY:A-Junioren: SV Wacker 09 Cottbus-Ströbitz – Brandenburger SC Sü
  d 05
 LOCATION:Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus
-DESCRIPTION:Treffpunkt 12:00 Uhr · Anstoß 13:00 Uhr\n\nA-Junioren · Verb
- andsliga · Brandenburgliga\n9. Spieltag · Heimspiel\n\nSpielort: Kunstra
- senplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus\nhttps://www.google
- .com/maps/search/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\n\nSpielke
- nnung 610089058
+DESCRIPTION:Anstoß 13:00 Uhr · Treffpunkt 11:45 Uhr\nPlatzart: Kunstrasen
+ platz\n\nA-Junioren · Verbandsliga · Brandenburgliga\n9. Spieltag · Hei
+ mspiel\n\nSpielort: Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 
+ Cottbus\nhttps://www.google.com/maps/search/?api=1&query=Zahsower+Str.+12%
+ 2C+03046+Cottbus\n\nSpielkennung 610089058
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:Treffpunkt Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 0304
- 6 Cottbus – Anstoß 13:00 Uhr
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:610089066@flb.de
 DTSTAMP:20260822T082725Z
 LAST-MODIFIED:20260822T082725Z
-DTSTART;TZID=Europe/Berlin:20261122T130000
+DTSTART;TZID=Europe/Berlin:20261122T114500
 DTEND;TZID=Europe/Berlin:20261122T144500
 SEQUENCE:1
 SUMMARY:A-Junioren: Werderaner FC Viktoria 1920 – SV Wacker 09 Cottbus-St
  röbitz
 LOCATION:Arno-Franz-Sportplatz Werder\, KR\, Werderwiesen 16\, 14542 Werder
   (Havel)
-DESCRIPTION:Treffpunkt 12:00 Uhr · Anstoß 13:00 Uhr\n\nA-Junioren · Verb
- andsliga · Brandenburgliga\n10. Spieltag · Auswärtsspiel\n\nSpielort: A
- rno-Franz-Sportplatz Werder\, KR\, Werderwiesen 16\, 14542 Werder (Havel)\
- nhttps://www.google.com/maps/search/?api=1&query=Werderwiesen+16%2C+14542+
- Werder+%28Havel%29\n\nSpielkennung 610089066
+DESCRIPTION:Anstoß 13:00 Uhr · Treffpunkt 11:45 Uhr\nPlatzart: Kunstrasen
+ platz\n\nA-Junioren · Verbandsliga · Brandenburgliga\n10. Spieltag · Au
+ swärtsspiel\n\nSpielort: Arno-Franz-Sportplatz Werder\, KR\, Werderwiesen
+  16\, 14542 Werder (Havel)\nhttps://www.google.com/maps/search/?api=1&quer
+ y=Werderwiesen+16%2C+14542+Werder+%28Havel%29\n\nSpielkennung 610089066
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:Treffpunkt Arno-Franz-Sportplatz Werder\, KR\, Werderwiesen 16\
- , 14542 Werder (Havel) – Anstoß 13:00 Uhr
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:610089071@flb.de
 DTSTAMP:20260822T082725Z
 LAST-MODIFIED:20260822T082725Z
-DTSTART;TZID=Europe/Berlin:20261128T130000
+DTSTART;TZID=Europe/Berlin:20261128T114500
 DTEND;TZID=Europe/Berlin:20261128T144500
 SEQUENCE:0
 SUMMARY:A-Junioren: SV Germania 90 Schöneiche – SV Wacker 09 Cottbus-Str
  öbitz
 LOCATION:BD DOBRA SPORTPARK\, Babickstr. 8\, 15566 Schöneiche
-DESCRIPTION:Treffpunkt 12:00 Uhr · Anstoß 13:00 Uhr\n\nA-Junioren · Verb
- andsliga · Brandenburgliga\n11. Spieltag · Auswärtsspiel\n\nSpielort: B
- D DOBRA SPORTPARK\, Babickstr. 8\, 15566 Schöneiche\nhttps://www.google.c
- om/maps/search/?api=1&query=Babickstr.+8%2C+15566+Sch%C3%B6neiche\n\nSpiel
- kennung 610089071
+DESCRIPTION:Anstoß 13:00 Uhr · Treffpunkt 11:45 Uhr\nPlatzart: Rasenplatz
+ \n\nA-Junioren · Verbandsliga · Brandenburgliga\n11. Spieltag · Auswär
+ tsspiel\n\nSpielort: BD DOBRA SPORTPARK\, Babickstr. 8\, 15566 Schöneiche
+ \nhttps://www.google.com/maps/search/?api=1&query=Babickstr.+8%2C+15566+Sc
+ h%C3%B6neiche\n\nSpielkennung 610089071
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:Treffpunkt BD DOBRA SPORTPARK\, Babickstr. 8\, 15566 Schöneich
- e – Anstoß 13:00 Uhr
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:610089079@flb.de
 DTSTAMP:20260822T082725Z
 LAST-MODIFIED:20260822T082725Z
-DTSTART;TZID=Europe/Berlin:20261205T130000
+DTSTART;TZID=Europe/Berlin:20261205T114500
 DTEND;TZID=Europe/Berlin:20261205T144500
 SEQUENCE:0
 SUMMARY:A-Junioren: SV Wacker 09 Cottbus-Ströbitz – BSG Stahl Brandenbur
  g
 LOCATION:Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus
-DESCRIPTION:Treffpunkt 12:00 Uhr · Anstoß 13:00 Uhr\n\nA-Junioren · Verb
- andsliga · Brandenburgliga\n12. Spieltag · Heimspiel\n\nSpielort: Kunstr
- asenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus\nhttps://www.googl
- e.com/maps/search/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\n\nSpielk
- ennung 610089079
+DESCRIPTION:Anstoß 13:00 Uhr · Treffpunkt 11:45 Uhr\nPlatzart: Kunstrasen
+ platz\n\nA-Junioren · Verbandsliga · Brandenburgliga\n12. Spieltag · He
+ imspiel\n\nSpielort: Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046
+  Cottbus\nhttps://www.google.com/maps/search/?api=1&query=Zahsower+Str.+12
+ %2C+03046+Cottbus\n\nSpielkennung 610089079
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:Treffpunkt Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 0304
- 6 Cottbus – Anstoß 13:00 Uhr
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:610089086@flb.de
 DTSTAMP:20260822T082725Z
 LAST-MODIFIED:20260822T082725Z
-DTSTART;TZID=Europe/Berlin:20261212T130000
+DTSTART;TZID=Europe/Berlin:20261212T114500
 DTEND;TZID=Europe/Berlin:20261212T144500
 SEQUENCE:0
 SUMMARY:A-Junioren: SV Wacker 09 Cottbus-Ströbitz – BSC Preußen 07
 LOCATION:Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus
-DESCRIPTION:Treffpunkt 12:00 Uhr · Anstoß 13:00 Uhr\n\nA-Junioren · Verb
- andsliga · Brandenburgliga\n13. Spieltag · Heimspiel\n\nSpielort: Kunstr
- asenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus\nhttps://www.googl
- e.com/maps/search/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\n\nSpielk
- ennung 610089086
+DESCRIPTION:Anstoß 13:00 Uhr · Treffpunkt 11:45 Uhr\nPlatzart: Kunstrasen
+ platz\n\nA-Junioren · Verbandsliga · Brandenburgliga\n13. Spieltag · He
+ imspiel\n\nSpielort: Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046
+  Cottbus\nhttps://www.google.com/maps/search/?api=1&query=Zahsower+Str.+12
+ %2C+03046+Cottbus\n\nSpielkennung 610089086
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:Treffpunkt Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 0304
- 6 Cottbus – Anstoß 13:00 Uhr
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:610089093@flb.de
 DTSTAMP:20260822T082725Z
 LAST-MODIFIED:20260822T082725Z
-DTSTART;TZID=Europe/Berlin:20270220T110000
+DTSTART;TZID=Europe/Berlin:20270220T094500
 DTEND;TZID=Europe/Berlin:20270220T124500
 SEQUENCE:0
 SUMMARY:A-Junioren: FSV Bernau – SV Wacker 09 Cottbus-Ströbitz
 LOCATION:Rathausplatz\, Kunstrasen\, Gottlieb-Daimler-Str.\, 16321 Bernau b
  ei Berlin
-DESCRIPTION:Treffpunkt 10:00 Uhr · Anstoß 11:00 Uhr\n\nA-Junioren · Verb
- andsliga · Brandenburgliga\n14. Spieltag · Auswärtsspiel\n\nSpielort: R
- athausplatz\, Kunstrasen\, Gottlieb-Daimler-Str.\, 16321 Bernau bei Berlin
- \nhttps://www.google.com/maps/search/?api=1&query=Gottlieb-Daimler-Str.%2C
- +16321+Bernau+bei+Berlin\n\nSpielkennung 610089093
+DESCRIPTION:Anstoß 11:00 Uhr · Treffpunkt 09:45 Uhr\nPlatzart: Kunstrasen
+ platz\n\nA-Junioren · Verbandsliga · Brandenburgliga\n14. Spieltag · Au
+ swärtsspiel\n\nSpielort: Rathausplatz\, Kunstrasen\, Gottlieb-Daimler-Str
+ .\, 16321 Bernau bei Berlin\nhttps://www.google.com/maps/search/?api=1&que
+ ry=Gottlieb-Daimler-Str.%2C+16321+Bernau+bei+Berlin\n\nSpielkennung 610089
+ 093
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:Treffpunkt Rathausplatz\, Kunstrasen\, Gottlieb-Daimler-Str.\, 
- 16321 Bernau bei Berlin – Anstoß 11:00 Uhr
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:610089100@flb.de
 DTSTAMP:20260822T082725Z
 LAST-MODIFIED:20260822T082725Z
-DTSTART;TZID=Europe/Berlin:20270228T110000
+DTSTART;TZID=Europe/Berlin:20270228T094500
 DTEND;TZID=Europe/Berlin:20270228T124500
 SEQUENCE:0
 SUMMARY:A-Junioren: SpG Hansa Wittstock /Meyenburg – SV Wacker 09 Cottbus
  -Ströbitz
 LOCATION:Stadion des Friedens\, Platz 1\, Friedrich-Ludwig-Jahn-Str. 62\, 1
  6909 Wittstock/Dosse
-DESCRIPTION:Treffpunkt 10:00 Uhr · Anstoß 11:00 Uhr\n\nA-Junioren · Verb
- andsliga · Brandenburgliga\n15. Spieltag · Auswärtsspiel\n\nSpielort: S
- tadion des Friedens\, Platz 1\, Friedrich-Ludwig-Jahn-Str. 62\, 16909 Witt
- stock/Dosse\nhttps://www.google.com/maps/search/?api=1&query=Friedrich-Lud
- wig-Jahn-Str.+62%2C+16909+Wittstock%2FDosse\n\nSpielkennung 610089100
+DESCRIPTION:Anstoß 11:00 Uhr · Treffpunkt 09:45 Uhr\nPlatzart: Rasenplatz
+ \n\nA-Junioren · Verbandsliga · Brandenburgliga\n15. Spieltag · Auswär
+ tsspiel\n\nSpielort: Stadion des Friedens\, Platz 1\, Friedrich-Ludwig-Jah
+ n-Str. 62\, 16909 Wittstock/Dosse\nhttps://www.google.com/maps/search/?api
+ =1&query=Friedrich-Ludwig-Jahn-Str.+62%2C+16909+Wittstock%2FDosse\n\nSpiel
+ kennung 610089100
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:Treffpunkt Stadion des Friedens\, Platz 1\, Friedrich-Ludwig-Ja
- hn-Str. 62\, 16909 Wittstock/Dosse – Anstoß 11:00 Uhr
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:610089107@flb.de
 DTSTAMP:20260822T082725Z
 LAST-MODIFIED:20260822T082725Z
-DTSTART;TZID=Europe/Berlin:20270306T113000
+DTSTART;TZID=Europe/Berlin:20270306T101500
 DTEND;TZID=Europe/Berlin:20270306T131500
 SEQUENCE:0
 SUMMARY:A-Junioren: SV Dallgow 47 – SV Wacker 09 Cottbus-Ströbitz
 LOCATION:Fußballplatz Dallgow\, Charlottenstr. 1-3\, 14624 Dallgow-Döberi
  tz
-DESCRIPTION:Treffpunkt 10:30 Uhr · Anstoß 11:30 Uhr\n\nA-Junioren · Verb
- andsliga · Brandenburgliga\n16. Spieltag · Auswärtsspiel\n\nSpielort: F
- ußballplatz Dallgow\, Charlottenstr. 1-3\, 14624 Dallgow-Döberitz\nhttps
- ://www.google.com/maps/search/?api=1&query=Charlottenstr.+1-3%2C+14624+Dal
- lgow-D%C3%B6beritz\n\nSpielkennung 610089107
+DESCRIPTION:Anstoß 11:30 Uhr · Treffpunkt 10:15 Uhr\nPlatzart: Kunstrasen
+ platz\n\nA-Junioren · Verbandsliga · Brandenburgliga\n16. Spieltag · Au
+ swärtsspiel\n\nSpielort: Fußballplatz Dallgow\, Charlottenstr. 1-3\, 146
+ 24 Dallgow-Döberitz\nhttps://www.google.com/maps/search/?api=1&query=Char
+ lottenstr.+1-3%2C+14624+Dallgow-D%C3%B6beritz\n\nSpielkennung 610089107
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:Treffpunkt Fußballplatz Dallgow\, Charlottenstr. 1-3\, 14624 D
- allgow-Döberitz – Anstoß 11:30 Uhr
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:610089119@flb.de
 DTSTAMP:20260822T082725Z
 LAST-MODIFIED:20260822T082725Z
-DTSTART;TZID=Europe/Berlin:20270313T130000
+DTSTART;TZID=Europe/Berlin:20270313T114500
 DTEND;TZID=Europe/Berlin:20270313T144500
 SEQUENCE:0
 SUMMARY:A-Junioren: SV Wacker 09 Cottbus-Ströbitz – SV Falkensee-Finkenk
  rug
 LOCATION:Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus
-DESCRIPTION:Treffpunkt 12:00 Uhr · Anstoß 13:00 Uhr\n\nA-Junioren · Verb
- andsliga · Brandenburgliga\n17. Spieltag · Heimspiel\n\nSpielort: Kunstr
- asenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus\nhttps://www.googl
- e.com/maps/search/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\n\nSpielk
- ennung 610089119
+DESCRIPTION:Anstoß 13:00 Uhr · Treffpunkt 11:45 Uhr\nPlatzart: Kunstrasen
+ platz\n\nA-Junioren · Verbandsliga · Brandenburgliga\n17. Spieltag · He
+ imspiel\n\nSpielort: Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046
+  Cottbus\nhttps://www.google.com/maps/search/?api=1&query=Zahsower+Str.+12
+ %2C+03046+Cottbus\n\nSpielkennung 610089119
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:Treffpunkt Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 0304
- 6 Cottbus – Anstoß 13:00 Uhr
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:610089123@flb.de
 DTSTAMP:20260822T082725Z
 LAST-MODIFIED:20260822T082725Z
-DTSTART;TZID=Europe/Berlin:20270410T130000
+DTSTART;TZID=Europe/Berlin:20270410T114500
 DTEND;TZID=Europe/Berlin:20270410T144500
 SEQUENCE:0
 SUMMARY:A-Junioren: SV Wacker 09 Cottbus-Ströbitz – FSV 63 Luckenwalde
 LOCATION:Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus
-DESCRIPTION:Treffpunkt 12:00 Uhr · Anstoß 13:00 Uhr\n\nA-Junioren · Verb
- andsliga · Brandenburgliga\n18. Spieltag · Heimspiel\n\nSpielort: Kunstr
- asenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus\nhttps://www.googl
- e.com/maps/search/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\n\nSpielk
- ennung 610089123
+DESCRIPTION:Anstoß 13:00 Uhr · Treffpunkt 11:45 Uhr\nPlatzart: Kunstrasen
+ platz\n\nA-Junioren · Verbandsliga · Brandenburgliga\n18. Spieltag · He
+ imspiel\n\nSpielort: Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046
+  Cottbus\nhttps://www.google.com/maps/search/?api=1&query=Zahsower+Str.+12
+ %2C+03046+Cottbus\n\nSpielkennung 610089123
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:Treffpunkt Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 0304
- 6 Cottbus – Anstoß 13:00 Uhr
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:610089128@flb.de
 DTSTAMP:20260822T082725Z
 LAST-MODIFIED:20260822T082725Z
-DTSTART;TZID=Europe/Berlin:20270418T110000
+DTSTART;TZID=Europe/Berlin:20270418T094500
 DTEND;TZID=Europe/Berlin:20270418T124500
 SEQUENCE:0
 SUMMARY:A-Junioren: BSC Preußen 07 – SV Wacker 09 Cottbus-Ströbitz
 LOCATION:Sportplatz Blankenfelde KR\, Beethovenstr. 5\, 15831 Blankenfelde-
  Mahlow
-DESCRIPTION:Treffpunkt 10:00 Uhr · Anstoß 11:00 Uhr\n\nA-Junioren · Verb
- andsliga · Brandenburgliga\n19. Spieltag · Auswärtsspiel\n\nSpielort: S
- portplatz Blankenfelde KR\, Beethovenstr. 5\, 15831 Blankenfelde-Mahlow\nh
- ttps://www.google.com/maps/search/?api=1&query=Beethovenstr.+5%2C+15831+Bl
- ankenfelde-Mahlow\n\nSpielkennung 610089128
+DESCRIPTION:Anstoß 11:00 Uhr · Treffpunkt 09:45 Uhr\nPlatzart: Rasenplatz
+ \n\nA-Junioren · Verbandsliga · Brandenburgliga\n19. Spieltag · Auswär
+ tsspiel\n\nSpielort: Sportplatz Blankenfelde KR\, Beethovenstr. 5\, 15831 
+ Blankenfelde-Mahlow\nhttps://www.google.com/maps/search/?api=1&query=Beeth
+ ovenstr.+5%2C+15831+Blankenfelde-Mahlow\n\nSpielkennung 610089128
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:Treffpunkt Sportplatz Blankenfelde KR\, Beethovenstr. 5\, 15831
-  Blankenfelde-Mahlow – Anstoß 11:00 Uhr
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:610089138@flb.de
 DTSTAMP:20260822T082725Z
 LAST-MODIFIED:20260822T082725Z
-DTSTART;TZID=Europe/Berlin:20270424T130000
+DTSTART;TZID=Europe/Berlin:20270424T114500
 DTEND;TZID=Europe/Berlin:20270424T144500
 SEQUENCE:0
 SUMMARY:A-Junioren: SV Wacker 09 Cottbus-Ströbitz – SV 1908 Grün-Weiss 
  Ahrensfelde
 LOCATION:Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus
-DESCRIPTION:Treffpunkt 12:00 Uhr · Anstoß 13:00 Uhr\n\nA-Junioren · Verb
- andsliga · Brandenburgliga\n20. Spieltag · Heimspiel\n\nSpielort: Kunstr
- asenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus\nhttps://www.googl
- e.com/maps/search/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\n\nSpielk
- ennung 610089138
+DESCRIPTION:Anstoß 13:00 Uhr · Treffpunkt 11:45 Uhr\nPlatzart: Kunstrasen
+ platz\n\nA-Junioren · Verbandsliga · Brandenburgliga\n20. Spieltag · He
+ imspiel\n\nSpielort: Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046
+  Cottbus\nhttps://www.google.com/maps/search/?api=1&query=Zahsower+Str.+12
+ %2C+03046+Cottbus\n\nSpielkennung 610089138
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:Treffpunkt Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 0304
- 6 Cottbus – Anstoß 13:00 Uhr
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:610089142@flb.de
 DTSTAMP:20260822T082725Z
 LAST-MODIFIED:20260822T082725Z
-DTSTART;TZID=Europe/Berlin:20270501T130000
+DTSTART;TZID=Europe/Berlin:20270501T114500
 DTEND;TZID=Europe/Berlin:20270501T144500
 SEQUENCE:0
 SUMMARY:A-Junioren: SV Wacker 09 Cottbus-Ströbitz – FC Neuenhagen 1913
 LOCATION:Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus
-DESCRIPTION:Treffpunkt 12:00 Uhr · Anstoß 13:00 Uhr\n\nA-Junioren · Verb
- andsliga · Brandenburgliga\n21. Spieltag · Heimspiel\n\nSpielort: Kunstr
- asenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus\nhttps://www.googl
- e.com/maps/search/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\n\nSpielk
- ennung 610089142
+DESCRIPTION:Anstoß 13:00 Uhr · Treffpunkt 11:45 Uhr\nPlatzart: Kunstrasen
+ platz\n\nA-Junioren · Verbandsliga · Brandenburgliga\n21. Spieltag · He
+ imspiel\n\nSpielort: Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046
+  Cottbus\nhttps://www.google.com/maps/search/?api=1&query=Zahsower+Str.+12
+ %2C+03046+Cottbus\n\nSpielkennung 610089142
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:Treffpunkt Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 0304
- 6 Cottbus – Anstoß 13:00 Uhr
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:610089149@flb.de
 DTSTAMP:20260822T082725Z
 LAST-MODIFIED:20260822T082725Z
-DTSTART;TZID=Europe/Berlin:20270509T120000
+DTSTART;TZID=Europe/Berlin:20270509T104500
 DTEND;TZID=Europe/Berlin:20270509T134500
 SEQUENCE:0
 SUMMARY:A-Junioren: Brandenburger SC Süd 05 – SV Wacker 09 Cottbus-Strö
  bitz
 LOCATION:Werner-Seelenbinder-Sportplatz\, Platz 2\, Brielower Str. 7\, 1477
  0 Brandenburg an der Havel
-DESCRIPTION:Treffpunkt 11:00 Uhr · Anstoß 12:00 Uhr\n\nA-Junioren · Verb
- andsliga · Brandenburgliga\n22. Spieltag · Auswärtsspiel\n\nSpielort: W
- erner-Seelenbinder-Sportplatz\, Platz 2\, Brielower Str. 7\, 14770 Branden
- burg an der Havel\nhttps://www.google.com/maps/search/?api=1&query=Brielow
- er+Str.+7%2C+14770+Brandenburg+an+der+Havel\n\nSpielkennung 610089149
+DESCRIPTION:Anstoß 12:00 Uhr · Treffpunkt 10:45 Uhr\nPlatzart: Rasenplatz
+ \n\nA-Junioren · Verbandsliga · Brandenburgliga\n22. Spieltag · Auswär
+ tsspiel\n\nSpielort: Werner-Seelenbinder-Sportplatz\, Platz 2\, Brielower 
+ Str. 7\, 14770 Brandenburg an der Havel\nhttps://www.google.com/maps/searc
+ h/?api=1&query=Brielower+Str.+7%2C+14770+Brandenburg+an+der+Havel\n\nSpiel
+ kennung 610089149
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:Treffpunkt Werner-Seelenbinder-Sportplatz\, Platz 2\, Brielower
-  Str. 7\, 14770 Brandenburg an der Havel – Anstoß 12:00 Uhr
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:610089157@flb.de
 DTSTAMP:20260822T082725Z
 LAST-MODIFIED:20260822T082725Z
-DTSTART;TZID=Europe/Berlin:20270522T130000
+DTSTART;TZID=Europe/Berlin:20270522T114500
 DTEND;TZID=Europe/Berlin:20270522T144500
 SEQUENCE:0
 SUMMARY:A-Junioren: SV Wacker 09 Cottbus-Ströbitz – Werderaner FC Viktor
  ia 1920
 LOCATION:Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus
-DESCRIPTION:Treffpunkt 12:00 Uhr · Anstoß 13:00 Uhr\n\nA-Junioren · Verb
- andsliga · Brandenburgliga\n23. Spieltag · Heimspiel\n\nSpielort: Kunstr
- asenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus\nhttps://www.googl
- e.com/maps/search/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\n\nSpielk
- ennung 610089157
+DESCRIPTION:Anstoß 13:00 Uhr · Treffpunkt 11:45 Uhr\nPlatzart: Kunstrasen
+ platz\n\nA-Junioren · Verbandsliga · Brandenburgliga\n23. Spieltag · He
+ imspiel\n\nSpielort: Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046
+  Cottbus\nhttps://www.google.com/maps/search/?api=1&query=Zahsower+Str.+12
+ %2C+03046+Cottbus\n\nSpielkennung 610089157
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:Treffpunkt Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 0304
- 6 Cottbus – Anstoß 13:00 Uhr
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:610089162@flb.de
 DTSTAMP:20260822T082725Z
 LAST-MODIFIED:20260822T082725Z
-DTSTART;TZID=Europe/Berlin:20270529T130000
+DTSTART;TZID=Europe/Berlin:20270529T114500
 DTEND;TZID=Europe/Berlin:20270529T144500
 SEQUENCE:0
 SUMMARY:A-Junioren: SV Wacker 09 Cottbus-Ströbitz – SV Germania 90 Schö
  neiche
 LOCATION:Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus
-DESCRIPTION:Treffpunkt 12:00 Uhr · Anstoß 13:00 Uhr\n\nA-Junioren · Verb
- andsliga · Brandenburgliga\n24. Spieltag · Heimspiel\n\nSpielort: Kunstr
- asenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus\nhttps://www.googl
- e.com/maps/search/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\n\nSpielk
- ennung 610089162
+DESCRIPTION:Anstoß 13:00 Uhr · Treffpunkt 11:45 Uhr\nPlatzart: Kunstrasen
+ platz\n\nA-Junioren · Verbandsliga · Brandenburgliga\n24. Spieltag · He
+ imspiel\n\nSpielort: Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046
+  Cottbus\nhttps://www.google.com/maps/search/?api=1&query=Zahsower+Str.+12
+ %2C+03046+Cottbus\n\nSpielkennung 610089162
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:Treffpunkt Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 0304
- 6 Cottbus – Anstoß 13:00 Uhr
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:610089170@flb.de
 DTSTAMP:20260822T082725Z
 LAST-MODIFIED:20260822T082725Z
-DTSTART;TZID=Europe/Berlin:20270606T110000
+DTSTART;TZID=Europe/Berlin:20270606T094500
 DTEND;TZID=Europe/Berlin:20270606T124500
 SEQUENCE:1
 SUMMARY:A-Junioren: BSG Stahl Brandenburg – SV Wacker 09 Cottbus-Ströbit
  z
 LOCATION:Stadion am Quenz\, Platz 2\, Thüringer Str. 251\, 14770 Brandenbu
  rg an der Havel
-DESCRIPTION:Treffpunkt 10:00 Uhr · Anstoß 11:00 Uhr\n\nA-Junioren · Verb
- andsliga · Brandenburgliga\n25. Spieltag · Auswärtsspiel\n\nSpielort: S
- tadion am Quenz\, Platz 2\, Thüringer Str. 251\, 14770 Brandenburg an der
-  Havel\nhttps://www.google.com/maps/search/?api=1&query=Th%C3%BCringer+Str
- .+251%2C+14770+Brandenburg+an+der+Havel\n\nSpielkennung 610089170
+DESCRIPTION:Anstoß 11:00 Uhr · Treffpunkt 09:45 Uhr\nPlatzart: Rasenplatz
+ \n\nA-Junioren · Verbandsliga · Brandenburgliga\n25. Spieltag · Auswär
+ tsspiel\n\nSpielort: Stadion am Quenz\, Platz 2\, Thüringer Str. 251\, 14
+ 770 Brandenburg an der Havel\nhttps://www.google.com/maps/search/?api=1&qu
+ ery=Th%C3%BCringer+Str.+251%2C+14770+Brandenburg+an+der+Havel\n\nSpielkenn
+ ung 610089170
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:Treffpunkt Stadion am Quenz\, Platz 2\, Thüringer Str. 251\, 1
- 4770 Brandenburg an der Havel – Anstoß 11:00 Uhr
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:610089181@flb.de
 DTSTAMP:20260822T082725Z
 LAST-MODIFIED:20260822T082725Z
-DTSTART;TZID=Europe/Berlin:20270612T110000
+DTSTART;TZID=Europe/Berlin:20270612T094500
 DTEND;TZID=Europe/Berlin:20270612T124500
 SEQUENCE:1
 SUMMARY:A-Junioren: SV Wacker 09 Cottbus-Ströbitz – SG Bornim
 LOCATION:Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus
-DESCRIPTION:Treffpunkt 10:00 Uhr · Anstoß 11:00 Uhr\n\nA-Junioren · Verb
- andsliga · Brandenburgliga\n26. Spieltag · Heimspiel\n\nSpielort: Kunstr
- asenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus\nhttps://www.googl
- e.com/maps/search/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\n\nSpielk
- ennung 610089181
+DESCRIPTION:Anstoß 11:00 Uhr · Treffpunkt 09:45 Uhr\nPlatzart: Kunstrasen
+ platz\n\nA-Junioren · Verbandsliga · Brandenburgliga\n26. Spieltag · He
+ imspiel\n\nSpielort: Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046
+  Cottbus\nhttps://www.google.com/maps/search/?api=1&query=Zahsower+Str.+12
+ %2C+03046+Cottbus\n\nSpielkennung 610089181
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:Treffpunkt Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 0304
- 6 Cottbus – Anstoß 11:00 Uhr
-END:VALARM
 END:VEVENT
 END:VCALENDAR
