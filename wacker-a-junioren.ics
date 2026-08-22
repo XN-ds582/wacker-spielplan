@@ -2,7 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//SV Wacker 09 Cottbus-Ströbitz//Spielplan//DE
 CALSCALE:GREGORIAN
-METHOD:PUBLISH
 X-WR-CALNAME:SV Wacker 09 Cottbus-Ströbitz – A-Junioren
 X-WR-TIMEZONE:Europe/Berlin
 X-WR-CALDESC:SV Wacker 09 Cottbus-Ströbitz – A-Junioren. Quelle: DFBnet 
