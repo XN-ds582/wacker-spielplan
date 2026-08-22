@@ -48,10 +48,11 @@
     <p>Brandenburgliga · 26 Spiele</p>
     <div class="knopfreihe">
       <a class="knopf haupt" data-abo="wacker-a-junioren.ics" href="wacker-a-junioren.ics">Abonnieren</a>
+      <a class="knopf" data-google="wacker-a-junioren.ics" target="_blank" rel="noopener">In Google Kalender</a>
       <button class="knopf" data-kopiere="wacker-a-junioren.ics">Adresse kopieren</button>
     </div>
-    <p class="wink">Auf iPhone, iPad und Mac genügt <em>Abonnieren</em>. Bei Android
-      und Google Kalender die Adresse kopieren — siehe unten.</p>
+    <p class="wink">Auf iPhone, iPad und Mac genügt <em>Abonnieren</em>.
+      <em>In Google Kalender</em> öffnet den Dialog am Rechner direkt.</p>
     <details><summary>Adresse anzeigen</summary>
       <code data-datei="wacker-a-junioren.ics"></code></details>
   </div>
@@ -61,10 +62,11 @@
     <p>Landesliga, BBL Staffel 2 · 7 Spiele</p>
     <div class="knopfreihe">
       <a class="knopf haupt" data-abo="wacker-b-junioren.ics" href="wacker-b-junioren.ics">Abonnieren</a>
+      <a class="knopf" data-google="wacker-b-junioren.ics" target="_blank" rel="noopener">In Google Kalender</a>
       <button class="knopf" data-kopiere="wacker-b-junioren.ics">Adresse kopieren</button>
     </div>
-    <p class="wink">Auf iPhone, iPad und Mac genügt <em>Abonnieren</em>. Bei Android
-      und Google Kalender die Adresse kopieren — siehe unten.</p>
+    <p class="wink">Auf iPhone, iPad und Mac genügt <em>Abonnieren</em>.
+      <em>In Google Kalender</em> öffnet den Dialog am Rechner direkt.</p>
     <details><summary>Adresse anzeigen</summary>
       <code data-datei="wacker-b-junioren.ics"></code></details>
   </div>
@@ -76,10 +78,12 @@
     Kunstrasen) und der Spielort mit Anschrift.</p>
 
     <h3>Android und Google Kalender</h3>
-    <ul><li>Geht nur am Rechner, nicht in der Handy-App:
-    <b>calendar.google.com</b> → links bei „Weitere Kalender" auf <b>+</b> →
-    <i>Per URL</i> → Adresse einsetzen → <i>Kalender hinzufügen</i>. Auf dem
-    Telefon erscheint er danach von selbst.</li></ul>
+    <ul><li>Am einfachsten der Knopf <i>In Google Kalender</i> oben — er
+    öffnet den Dialog mit fertig eingesetzter Adresse.</li>
+    <li>Von Hand: <b>calendar.google.com</b> → links bei „Weitere Kalender" auf
+    <b>+</b> → <i>Per URL</i> → Adresse einsetzen. Geht nur am Rechner, in der
+    Handy-App gibt es die Auswahl nicht; auf dem Telefon erscheint der
+    Kalender danach von selbst.</li></ul>
 
     <h3>Outlook</h3>
     <ul><li>Kalender → <i>Kalender hinzufügen</i> → <i>Aus dem Internet abonnieren</i></li></ul>
@@ -94,11 +98,16 @@
   </div>
 </main>
 <script>
-  const pfad = location.pathname.replace(/index\.html$/, "").replace(/\/?$/, "/");
-  const wurzel = location.origin + pfad;
-  const abo = "webcal://" + location.host + pfad;
+  // Ausgeliefert wird über jsDelivr, nicht von dieser Seite: nur dort kommt
+  // "text/calendar; charset=utf-8" mit, und ohne den Zeichensatz lehnt Google
+  // Kalender das Abo ab. GitHub Pages lässt sich der Kopf nicht mitgeben.
+  const basis = "cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan@main/";
+  const wurzel = "https://" + basis;
+  const abo = "webcal://" + basis;
   document.querySelectorAll("[data-datei]").forEach(el => el.textContent = wurzel + el.dataset.datei);
   document.querySelectorAll("[data-abo]").forEach(el => el.href = abo + el.dataset.abo);
+  document.querySelectorAll("[data-google]").forEach(el => el.href =
+    "https://calendar.google.com/calendar/r?cid=" + encodeURIComponent(wurzel + el.dataset.google));
   document.querySelectorAll("[data-kopiere]").forEach(el => el.onclick = async () => {
     try { await navigator.clipboard.writeText(wurzel + el.dataset.kopiere);
           const alt = el.textContent; el.textContent = "kopiert";
