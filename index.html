@@ -101,15 +101,21 @@
   // Ausgeliefert wird über jsDelivr, nicht von dieser Seite: nur dort kommt
   // "text/calendar; charset=utf-8" mit, und ohne den Zeichensatz lehnt Google
   // Kalender das Abo ab. GitHub Pages lässt sich der Kopf nicht mitgeben.
-  // Ohne "@main": an dem "@" scheitert die URL-Pruefung von Google.
-  const basis = "cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/";
-  const wurzel = "https://" + basis;
-  const abo = "webcal://" + basis;
+  // Abonniert wird von dieser Seite selbst. Diese Adresse ist immer sofort
+  // aktuell und hat auf Apple-Geraeten von Anfang an getragen. Der Umweg
+  // ueber ein CDN hatte nur einen Zweck -- "charset=utf-8" im Kopf, den
+  // Google verlangt -- und half dort trotzdem nicht; dafuer haengt eine
+  // CDN-Adresse am Zwischenspeicher und kann kurzzeitig ins Leere zeigen.
+  const pfad = location.pathname.replace(/index\.html$/, "").replace(/\/?$/, "/");
+  const wurzel = location.origin + pfad;
+  const abo = "webcal://" + location.host + pfad;
+  // Fuer Google weiterhin die CDN-Adresse: nur die traegt den Zeichensatz.
+  const cdn = "webcal://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/";
   document.querySelectorAll("[data-datei]").forEach(el => el.textContent = wurzel + el.dataset.datei);
   document.querySelectorAll("[data-abo]").forEach(el => el.href = abo + el.dataset.abo);
   // Die dokumentierte Form: cid mit webcal-Schema, unkodiert.
   document.querySelectorAll("[data-google]").forEach(el => el.href =
-    "https://www.google.com/calendar/render?cid=" + abo + el.dataset.google);
+    "https://www.google.com/calendar/render?cid=" + cdn + el.dataset.google);
   document.querySelectorAll("[data-kopiere]").forEach(el => el.onclick = async () => {
     try { await navigator.clipboard.writeText(wurzel + el.dataset.kopiere);
           const alt = el.textContent; el.textContent = "kopiert";
