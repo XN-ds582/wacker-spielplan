@@ -1,0 +1,198 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SV Wacker 09 Cottbus-Ströbitz//Spielplan//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SV Wacker 09 Cottbus-Ströbitz – B-Junioren
+X-WR-TIMEZONE:Europe/Berlin
+X-WR-CALDESC:SV Wacker 09 Cottbus-Ströbitz – B-Junioren. Quelle: DFBnet 
+ über fussball.de.
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:610152001@flb.de
+DTSTAMP:20260822T102441Z
+DTSTART;TZID=Europe/Berlin:20260823T110000
+DTEND;TZID=Europe/Berlin:20260823T123500
+SEQUENCE:0
+SUMMARY:B-Junioren: SV Wacker 09 Cottbus-Ströbitz – FC Neuenhagen 1913
+LOCATION:Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus
+DESCRIPTION:Treffpunkt 10:00 Uhr · Anstoß 11:00 Uhr\n\nB-Junioren · Land
+ esliga · BBL Staffel 2\n1. Spieltag · Heimspiel\n\nSpielort: Kunstrasenp
+ latz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus\nhttps://www.google.com
+ /maps/search/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\n\nSpielkennun
+ g 610152001
+CATEGORIES:B-Junioren
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Treffpunkt Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 0304
+ 6 Cottbus – Anstoß 11:00 Uhr
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:610152007@flb.de
+DTSTAMP:20260822T102441Z
+DTSTART;TZID=Europe/Berlin:20260829T113000
+DTEND;TZID=Europe/Berlin:20260829T130500
+SEQUENCE:0
+SUMMARY:B-Junioren: FV Preussen Eberswalde – SV Wacker 09 Cottbus-Ströbi
+ tz
+LOCATION:Westend-Stadion\, KR\, Heegermühler Str. 69a\, 16225 Eberswalde
+DESCRIPTION:Treffpunkt 10:30 Uhr · Anstoß 11:30 Uhr\n\nB-Junioren · Land
+ esliga · BBL Staffel 2\n2. Spieltag · Auswärtsspiel\n\nSpielort: Westen
+ d-Stadion\, KR\, Heegermühler Str. 69a\, 16225 Eberswalde\nhttps://www.go
+ ogle.com/maps/search/?api=1&query=Heegerm%C3%BChler+Str.+69a%2C+16225+Eber
+ swalde\n\nSpielkennung 610152007
+CATEGORIES:B-Junioren
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Treffpunkt Westend-Stadion\, KR\, Heegermühler Str. 69a\, 1622
+ 5 Eberswalde – Anstoß 11:30 Uhr
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:610152009@flb.de
+DTSTAMP:20260822T102441Z
+DTSTART;TZID=Europe/Berlin:20260906T110000
+DTEND;TZID=Europe/Berlin:20260906T123500
+SEQUENCE:0
+SUMMARY:B-Junioren: SV Wacker 09 Cottbus-Ströbitz – SV Germania 90 Schö
+ neiche
+LOCATION:Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus
+DESCRIPTION:Treffpunkt 10:00 Uhr · Anstoß 11:00 Uhr\n\nB-Junioren · Land
+ esliga · BBL Staffel 2\n3. Spieltag · Heimspiel\n\nSpielort: Kunstrasenp
+ latz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus\nhttps://www.google.com
+ /maps/search/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\n\nSpielkennun
+ g 610152009
+CATEGORIES:B-Junioren
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Treffpunkt Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 0304
+ 6 Cottbus – Anstoß 11:00 Uhr
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:610152014@flb.de
+DTSTAMP:20260822T102441Z
+DTSTART;TZID=Europe/Berlin:20260913T120000
+DTEND;TZID=Europe/Berlin:20260913T133500
+SEQUENCE:0
+SUMMARY:B-Junioren: FC Energie Cottbus U16 – SV Wacker 09 Cottbus-Ströbi
+ tz
+LOCATION:Sportplatz am Priorgraben\, KR\, Am Priorgraben 53a\, 03048 Cottbu
+ s
+DESCRIPTION:Treffpunkt 11:00 Uhr · Anstoß 12:00 Uhr\n\nB-Junioren · Land
+ esliga · BBL Staffel 2\n4. Spieltag · Auswärtsspiel\n\nSpielort: Sportp
+ latz am Priorgraben\, KR\, Am Priorgraben 53a\, 03048 Cottbus\nhttps://www
+ .google.com/maps/search/?api=1&query=Am+Priorgraben+53a%2C+03048+Cottbus\n
+ \nSpielkennung 610152014
+CATEGORIES:B-Junioren
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Treffpunkt Sportplatz am Priorgraben\, KR\, Am Priorgraben 53a\
+ , 03048 Cottbus – Anstoß 12:00 Uhr
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:610152017@flb.de
+DTSTAMP:20260822T102441Z
+DTSTART;TZID=Europe/Berlin:20260920T110000
+DTEND;TZID=Europe/Berlin:20260920T123500
+SEQUENCE:0
+SUMMARY:B-Junioren: SV Wacker 09 Cottbus-Ströbitz – FSV Union Fürstenwa
+ lde
+LOCATION:Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus
+DESCRIPTION:Treffpunkt 10:00 Uhr · Anstoß 11:00 Uhr\n\nB-Junioren · Land
+ esliga · BBL Staffel 2\n5. Spieltag · Heimspiel\n\nSpielort: Kunstrasenp
+ latz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus\nhttps://www.google.com
+ /maps/search/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\n\nSpielkennun
+ g 610152017
+CATEGORIES:B-Junioren
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Treffpunkt Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 0304
+ 6 Cottbus – Anstoß 11:00 Uhr
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:610152021@flb.de
+DTSTAMP:20260822T102441Z
+DTSTART;TZID=Europe/Berlin:20261004T110000
+DTEND;TZID=Europe/Berlin:20261004T123500
+SEQUENCE:0
+SUMMARY:B-Junioren: SV Wacker 09 Cottbus-Ströbitz – SV 1908 Grün-Weiss 
+ Ahrensfelde
+LOCATION:Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus
+DESCRIPTION:Treffpunkt 10:00 Uhr · Anstoß 11:00 Uhr\n\nB-Junioren · Land
+ esliga · BBL Staffel 2\n6. Spieltag · Heimspiel\n\nSpielort: Kunstrasenp
+ latz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus\nhttps://www.google.com
+ /maps/search/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\n\nSpielkennun
+ g 610152021
+CATEGORIES:B-Junioren
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Treffpunkt Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 0304
+ 6 Cottbus – Anstoß 11:00 Uhr
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:610152028@flb.de
+DTSTAMP:20260822T102441Z
+DTSTART;TZID=Europe/Berlin:20261010T110000
+DTEND;TZID=Europe/Berlin:20261010T123500
+SEQUENCE:1
+SUMMARY:B-Junioren: 1. FC Frankfurt/O. – SV Wacker 09 Cottbus-Ströbitz
+LOCATION:Stadion der Freundschaft\, Dieter-Schulz-Platz\, Buschmühlenweg 1
+ 72\, 15230 Frankfurt (Oder)
+DESCRIPTION:Treffpunkt 10:00 Uhr · Anstoß 11:00 Uhr\n\nB-Junioren · Land
+ esliga · BBL Staffel 2\n7. Spieltag · Auswärtsspiel\n\nSpielort: Stadio
+ n der Freundschaft\, Dieter-Schulz-Platz\, Buschmühlenweg 172\, 15230 Fra
+ nkfurt (Oder)\nhttps://www.google.com/maps/search/?api=1&query=Buschm%C3%B
+ Chlenweg+172%2C+15230+Frankfurt+%28Oder%29\n\nSpielkennung 610152028
+CATEGORIES:B-Junioren
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Treffpunkt Stadion der Freundschaft\, Dieter-Schulz-Platz\, Bus
+ chmühlenweg 172\, 15230 Frankfurt (Oder) – Anstoß 11:00 Uhr
+END:VALARM
+END:VEVENT
+END:VCALENDAR

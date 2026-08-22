@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Spieltermine SV Wacker 09</title>
+<style>
+  :root { --bg:#fbfbfa; --fg:#1c1b19; --matt:#6b6862; --linie:#e2ded6; --akzent:#146b3a; --karte:#fff; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#17181a; --fg:#e9e7e3; --matt:#9b978f; --linie:#2e3033; --akzent:#4caf7d; --karte:#1f2123; }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; padding:2.5rem 1.25rem 4rem; background:var(--bg); color:var(--fg);
+         font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif; }
+  main { max-width: 44rem; margin: 0 auto; }
+  h1 { font-size:1.55rem; line-height:1.25; margin:0 0 .35rem; letter-spacing:-.01em; }
+  .unter { color:var(--matt); margin:0 0 2.25rem; }
+  .karte { background:var(--karte); border:1px solid var(--linie); border-radius:12px;
+           padding:1.25rem 1.35rem; margin-bottom:1rem; }
+  .karte h2 { font-size:1.1rem; margin:0 0 .15rem; }
+  .karte p { margin:0 0 .9rem; color:var(--matt); font-size:.92rem; }
+  .adresse { display:flex; gap:.5rem; align-items:center; flex-wrap:wrap; }
+  code { background:var(--bg); border:1px solid var(--linie); border-radius:6px;
+         padding:.45rem .6rem; font-size:.8rem; overflow-x:auto; flex:1 1 20rem;
+         white-space:nowrap; font-family:ui-monospace,SFMono-Regular,Menlo,monospace; }
+  button { background:var(--akzent); color:#fff; border:0; border-radius:6px;
+           padding:.5rem .9rem; font-size:.85rem; cursor:pointer; font-weight:500; }
+  button:hover { filter:brightness(1.08); }
+  .hinweis { border-top:1px solid var(--linie); margin-top:2.25rem; padding-top:1.25rem;
+             color:var(--matt); font-size:.9rem; }
+  .hinweis h3 { color:var(--fg); font-size:.95rem; margin:1.25rem 0 .35rem; }
+  .hinweis ul { margin:.35rem 0; padding-left:1.15rem; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Spieltermine SV&nbsp;Wacker&nbsp;09 Cottbus-Ströbitz</h1>
+  <p class="unter">Saison 2026/27 — zum Abonnieren, nicht zum Herunterladen.</p>
+
+  <div class="karte">
+    <h2>A-Junioren</h2>
+    <p>Brandenburgliga · 26 Spiele</p>
+    <div class="adresse"><code data-datei="wacker-a-junioren.ics"></code>
+      <button data-kopiere="wacker-a-junioren.ics">Adresse kopieren</button></div>
+  </div>
+
+  <div class="karte">
+    <h2>B-Junioren</h2>
+    <p>Landesliga, BBL Staffel 2 · 7 Spiele</p>
+    <div class="adresse"><code data-datei="wacker-b-junioren.ics"></code>
+      <button data-kopiere="wacker-b-junioren.ics">Adresse kopieren</button></div>
+  </div>
+
+  <div class="hinweis">
+    <p>Jeder Termin trägt die <strong>Anstoßzeit</strong>, den Spielort mit
+    Anschrift und eine Erinnerung <strong>eine Stunde vor Anstoß</strong> —
+    dann soll die Mannschaft am Platz sein.</p>
+
+    <h3>iPhone und iPad</h3>
+    <ul><li>Einstellungen → Apps → Kalender → Accounts → Account hinzufügen →
+    Andere → Kalenderabo hinzufügen → Adresse einsetzen</li></ul>
+
+    <h3>Android und Google Kalender</h3>
+    <ul><li>Am Rechner: calendar.google.com → Weitere Kalender <b>+</b> →
+    Per URL → Adresse einsetzen. Auf dem Telefon erscheint er danach von
+    selbst.</li></ul>
+
+    <h3>Outlook</h3>
+    <ul><li>Kalender → Kalender hinzufügen → Aus dem Internet abonnieren</li></ul>
+
+    <p style="margin-top:1.5rem">Wer abonniert, bekommt Verlegungen
+    automatisch nachgereicht. Wer die Datei einmalig importiert, nicht.</p>
+  </div>
+</main>
+<script>
+  const wurzel = location.href.replace(/index\.html$/, "").replace(/\/?$/, "/");
+  document.querySelectorAll("[data-datei]").forEach(el => el.textContent = wurzel + el.dataset.datei);
+  document.querySelectorAll("[data-kopiere]").forEach(el => el.onclick = async () => {
+    try { await navigator.clipboard.writeText(wurzel + el.dataset.kopiere);
+          const alt = el.textContent; el.textContent = "kopiert";
+          setTimeout(() => el.textContent = alt, 1600); } catch (e) { }
+  });
+</script>
+</body>
+</html>
