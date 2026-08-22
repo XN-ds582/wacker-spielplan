@@ -101,13 +101,15 @@
   // Ausgeliefert wird über jsDelivr, nicht von dieser Seite: nur dort kommt
   // "text/calendar; charset=utf-8" mit, und ohne den Zeichensatz lehnt Google
   // Kalender das Abo ab. GitHub Pages lässt sich der Kopf nicht mitgeben.
-  const basis = "cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan@main/";
+  // Ohne "@main": an dem "@" scheitert die URL-Pruefung von Google.
+  const basis = "cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/";
   const wurzel = "https://" + basis;
   const abo = "webcal://" + basis;
   document.querySelectorAll("[data-datei]").forEach(el => el.textContent = wurzel + el.dataset.datei);
   document.querySelectorAll("[data-abo]").forEach(el => el.href = abo + el.dataset.abo);
+  // Die dokumentierte Form: cid mit webcal-Schema, unkodiert.
   document.querySelectorAll("[data-google]").forEach(el => el.href =
-    "https://calendar.google.com/calendar/r?cid=" + encodeURIComponent(wurzel + el.dataset.google));
+    "https://www.google.com/calendar/render?cid=" + abo + el.dataset.google);
   document.querySelectorAll("[data-kopiere]").forEach(el => el.onclick = async () => {
     try { await navigator.clipboard.writeText(wurzel + el.dataset.kopiere);
           const alt = el.textContent; el.textContent = "kopiert";
