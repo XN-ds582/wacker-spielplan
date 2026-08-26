@@ -519,4 +519,112 @@ CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
+BEGIN:VEVENT
+UID:810007003@flb.de
+DTSTAMP:20260826T162254Z
+LAST-MODIFIED:20260826T162254Z
+DTSTART;TZID=Europe/Berlin:20260815T101500
+DTEND;TZID=Europe/Berlin:20260815T131500
+SEQUENCE:0
+SUMMARY:A-Junioren: BSC Preußen 1 – SV Wacker 09 A-Junioren
+LOCATION:
+DESCRIPTION:Anstoß 11:30 Uhr · Treffpunkt 10:15 Uhr\n\nA-Junioren · Land
+ esfreundschaftsspiele\nAuswärtsspiel\n\nSpielort: \nhttps://www.google.co
+ m/maps/search/?api=1&query=BSC+Preu%C3%9Fen+1\n\nSpielkennung 810007003
+CATEGORIES:A-Junioren
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:810007043@flb.de
+DTSTAMP:20260826T162254Z
+LAST-MODIFIED:20260826T162254Z
+DTSTART;TZID=Europe/Berlin:20260731T151500
+DTEND;TZID=Europe/Berlin:20260731T181500
+SEQUENCE:0
+SUMMARY:A-Junioren: SV Wacker 09 A-Junioren – FC Energie Cottbus U17
+LOCATION:Sportplatz am Priorgraben\, Platz 1 (Oben)\, Am Priorgraben 53a\, 
+ 03048 Cottbus
+DESCRIPTION:Anstoß 16:30 Uhr · Treffpunkt 15:15 Uhr\nPlatzart: Rasenplatz
+ \n\nA-Junioren · Landesfreundschaftsspiele\nHeimspiel\n\nSpielort: Sportp
+ latz am Priorgraben\, Platz 1 (Oben)\, Am Priorgraben 53a\, 03048 Cottbus\
+ nhttps://www.google.com/maps/search/?api=1&query=Am+Priorgraben+53a%2C+030
+ 48+Cottbus\n\nSpielkennung 810007043
+CATEGORIES:A-Junioren
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:810007072@flb.de
+DTSTAMP:20260826T162254Z
+LAST-MODIFIED:20260826T162254Z
+DTSTART;TZID=Europe/Berlin:20260819T164500
+DTEND;TZID=Europe/Berlin:20260819T194500
+SEQUENCE:0
+SUMMARY:A-Junioren: SpG Krieschow/Kunersdorf/Kolkwitz/Kl.Gaglow – SV Wack
+ er 09 A-Junioren
+LOCATION:Sportplatz Klein Gaglow\, Bergstraße 26\, 03099 Kolkwitz
+DESCRIPTION:Anstoß 18:00 Uhr · Treffpunkt 16:45 Uhr\nPlatzart: Rasenplatz
+ \n\nA-Junioren · Landesfreundschaftsspiele\nAuswärtsspiel\n\nSpielort: S
+ portplatz Klein Gaglow\, Bergstraße 26\, 03099 Kolkwitz\nhttps://www.goog
+ le.com/maps/search/?api=1&query=Bergstra%C3%9Fe+26%2C+03099+Kolkwitz\n\nSp
+ ielkennung 810007072
+CATEGORIES:A-Junioren
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:810007073@flb.de
+DTSTAMP:20260826T162254Z
+LAST-MODIFIED:20260826T162254Z
+DTSTART;TZID=Europe/Berlin:20260816T094500
+DTEND;TZID=Europe/Berlin:20260816T124500
+SEQUENCE:0
+SUMMARY:A-Junioren: SV Wacker 09 A-Junioren – SC Borea Dresden
+LOCATION:Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus
+DESCRIPTION:Anstoß 11:00 Uhr · Treffpunkt 09:45 Uhr\nPlatzart: Kunstrasen
+ platz\n\nA-Junioren · Landesfreundschaftsspiele\nHeimspiel\n\nSpielort: K
+ unstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus\nhttps://www.
+ google.com/maps/search/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\n\nS
+ pielkennung 810007073
+CATEGORIES:A-Junioren
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:810007079@flb.de
+DTSTAMP:20260826T162254Z
+LAST-MODIFIED:20260826T162254Z
+DTSTART;TZID=Europe/Berlin:20260825T164500
+DTEND;TZID=Europe/Berlin:20260825T194500
+SEQUENCE:0
+SUMMARY:A-Junioren: SV Wacker 09 A-Junioren – FLB U16 LAW
+LOCATION:Sportanlage Dissenchen\, Branitzer Str. 9c\, 03052 Cottbus
+DESCRIPTION:Anstoß 18:00 Uhr · Treffpunkt 16:45 Uhr\nPlatzart: Rasenplatz
+ \n\nA-Junioren · Landesfreundschaftsspiele\nHeimspiel\n\nSpielort: Sporta
+ nlage Dissenchen\, Branitzer Str. 9c\, 03052 Cottbus\nhttps://www.google.c
+ om/maps/search/?api=1&query=Branitzer+Str.+9c%2C+03052+Cottbus\n\nSpielken
+ nung 810007079
+CATEGORIES:A-Junioren
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:830006026@flb.de
+DTSTAMP:20260826T162254Z
+LAST-MODIFIED:20260826T162254Z
+DTSTART;TZID=Europe/Berlin:20260809T094500
+DTEND;TZID=Europe/Berlin:20260809T124500
+SEQUENCE:0
+SUMMARY:A-Junioren: SC Borea Dresden – SV Wacker 09 A-Junioren
+LOCATION:SpA Am Jägerpark Kunstrasen\, Jägerpark 12\, 01099 Dresden
+DESCRIPTION:Anstoß 11:00 Uhr · Treffpunkt 09:45 Uhr\nPlatzart: Kunstrasen
+ platz\n\nA-Junioren · Landesfreundschaftsspiele\nAuswärtsspiel\n\nSpielo
+ rt: SpA Am Jägerpark Kunstrasen\, Jägerpark 12\, 01099 Dresden\nhttps://
+ www.google.com/maps/search/?api=1&query=J%C3%A4gerpark+12%2C+01099+Dresden
+ \n\nSpielkennung 830006026
+CATEGORIES:A-Junioren
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
