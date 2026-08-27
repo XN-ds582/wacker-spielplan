@@ -46,15 +46,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:610152007@flb.de
-DTSTAMP:20260822T143020Z
-LAST-MODIFIED:20260822T143020Z
-DTSTART;TZID=Europe/Berlin:20260829T101500
-DTEND;TZID=Europe/Berlin:20260829T130500
-SEQUENCE:2
+DTSTAMP:20260827T133557Z
+LAST-MODIFIED:20260827T133557Z
+DTSTART;TZID=Europe/Berlin:20260829T094500
+DTEND;TZID=Europe/Berlin:20260829T123500
+SEQUENCE:3
 SUMMARY:B-Junioren: FV Preussen Eberswalde – SV Wacker 09 Cottbus-Ströbi
  tz
 LOCATION:Westend-Stadion\, KR\, Heegermühler Str. 69a\, 16225 Eberswalde
-DESCRIPTION:Anstoß 11:30 Uhr · Treffpunkt 10:15 Uhr\nPlatzart: Kunstrasen
+DESCRIPTION:Anstoß 11:00 Uhr · Treffpunkt 09:45 Uhr\nPlatzart: Kunstrasen
  platz\n\nB-Junioren · Landesliga · BBL Staffel 2\n2. Spieltag · Auswär
  tsspiel\n\nSpielort: Westend-Stadion\, KR\, Heegermühler Str. 69a\, 16225
   Eberswalde\nhttps://www.google.com/maps/search/?api=1&query=Heegerm%C3%BC
@@ -84,11 +84,11 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:610152014@flb.de
-DTSTAMP:20260822T143020Z
-LAST-MODIFIED:20260822T143020Z
+DTSTAMP:20260827T133557Z
+LAST-MODIFIED:20260827T133557Z
 DTSTART;TZID=Europe/Berlin:20260913T104500
 DTEND;TZID=Europe/Berlin:20260913T133500
-SEQUENCE:2
+SEQUENCE:4
 SUMMARY:B-Junioren: FC Energie Cottbus U16 – SV Wacker 09 Cottbus-Ströbi
  tz
 LOCATION:Sportplatz am Priorgraben\, KR\, Am Priorgraben 53a\, 03048 Cottbu
