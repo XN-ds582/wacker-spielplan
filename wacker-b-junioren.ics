@@ -28,228 +28,252 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:610152001@flb.de
-DTSTAMP:20260822T143020Z
-LAST-MODIFIED:20260822T143020Z
+DTSTAMP:20260827T194905Z
+LAST-MODIFIED:20260827T194905Z
 DTSTART;TZID=Europe/Berlin:20260823T094500
-DTEND;TZID=Europe/Berlin:20260823T123500
-SEQUENCE:2
+DTEND;TZID=Europe/Berlin:20260823T130500
+SEQUENCE:3
 SUMMARY:B-Junioren: SV Wacker 09 Cottbus-Ströbitz – FC Neuenhagen 1913
 LOCATION:Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus
-DESCRIPTION:Anstoß 11:00 Uhr · Treffpunkt 09:45 Uhr\nPlatzart: Kunstrasen
- platz\n\nB-Junioren · Landesliga · BBL Staffel 2\n1. Spieltag · Heimspi
- el\n\nSpielort: Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cott
- bus\nhttps://www.google.com/maps/search/?api=1&query=Zahsower+Str.+12%2C+0
- 3046+Cottbus\n\nSpielkennung 610152001
+DESCRIPTION:SV Wacker 09 Cottbus-Ströbitz – FC Neuenhagen 1913\nWettbewe
+ rb: B-Junioren · Landesliga · BBL Staffel 2\nAnsetzung: 1. Spieltag · H
+ eimspiel\nSpielkennung: 610152001\nSpielort: Kunstrasenplatz Auf Wacker\, 
+ Zahsower Str. 12\, 03046 Cottbus\nDatum: Sonntag\, 23.08.2026\nAnstoß: 11
+ :00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13:05 Uhr\nPlatzart: Kunstrasenplatz\nA
+ ufstellung: alle Spieler\nAnfahrt: https://www.google.com/maps/search/?api
+ =1&query=Zahsower+Str.+12%2C+03046+Cottbus
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:610152007@flb.de
-DTSTAMP:20260827T193851Z
-LAST-MODIFIED:20260827T193851Z
+DTSTAMP:20260827T194905Z
+LAST-MODIFIED:20260827T194905Z
 DTSTART;TZID=Europe/Berlin:20260829T094500
-DTEND;TZID=Europe/Berlin:20260829T123500
-SEQUENCE:4
+DTEND;TZID=Europe/Berlin:20260829T130500
+SEQUENCE:5
 SUMMARY:B-Junioren: FV Preussen Eberswalde – SV Wacker 09 Cottbus-Ströbi
  tz
 LOCATION:Master of Colors - Arena\, Fritz-Lesch-Stadion\, Am Stadion 1\, 16
  225 Eberswalde
-DESCRIPTION:Anstoß 11:00 Uhr · Treffpunkt 09:45 Uhr\nPlatzart: Kunstrasen
- platz\n\nB-Junioren · Landesliga · BBL Staffel 2\n2. Spieltag · Auswär
- tsspiel\n\nSpielort: Master of Colors - Arena\, Fritz-Lesch-Stadion\, Am S
- tadion 1\, 16225 Eberswalde\nhttps://www.google.com/maps/search/?api=1&que
- ry=Am+Stadion+1%2C+16225+Eberswalde\n\nSpielkennung 610152007
+DESCRIPTION:FV Preussen Eberswalde – SV Wacker 09 Cottbus-Ströbitz\nWett
+ bewerb: B-Junioren · Landesliga · BBL Staffel 2\nAnsetzung: 2. Spieltag 
+ · Auswärtsspiel\nSpielkennung: 610152007\nSpielort: Master of Colors - A
+ rena\, Fritz-Lesch-Stadion\, Am Stadion 1\, 16225 Eberswalde\nDatum: Samst
+ ag\, 29.08.2026\nAnstoß: 11:00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13:05 Uhr\n
+ Platzart: Kunstrasenplatz\nAufstellung: alle Spieler\nAnfahrt: https://www
+ .google.com/maps/search/?api=1&query=Am+Stadion+1%2C+16225+Eberswalde
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:610152009@flb.de
-DTSTAMP:20260822T143020Z
-LAST-MODIFIED:20260822T143020Z
+DTSTAMP:20260827T194905Z
+LAST-MODIFIED:20260827T194905Z
 DTSTART;TZID=Europe/Berlin:20260906T094500
-DTEND;TZID=Europe/Berlin:20260906T123500
-SEQUENCE:2
+DTEND;TZID=Europe/Berlin:20260906T130500
+SEQUENCE:3
 SUMMARY:B-Junioren: SV Wacker 09 Cottbus-Ströbitz – SV Germania 90 Schö
  neiche
 LOCATION:Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus
-DESCRIPTION:Anstoß 11:00 Uhr · Treffpunkt 09:45 Uhr\nPlatzart: Kunstrasen
- platz\n\nB-Junioren · Landesliga · BBL Staffel 2\n3. Spieltag · Heimspi
- el\n\nSpielort: Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cott
- bus\nhttps://www.google.com/maps/search/?api=1&query=Zahsower+Str.+12%2C+0
- 3046+Cottbus\n\nSpielkennung 610152009
+DESCRIPTION:SV Wacker 09 Cottbus-Ströbitz – SV Germania 90 Schöneiche\n
+ Wettbewerb: B-Junioren · Landesliga · BBL Staffel 2\nAnsetzung: 3. Spiel
+ tag · Heimspiel\nSpielkennung: 610152009\nSpielort: Kunstrasenplatz Auf W
+ acker\, Zahsower Str. 12\, 03046 Cottbus\nDatum: Sonntag\, 06.09.2026\nAns
+ toß: 11:00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13:05 Uhr\nPlatzart: Kunstrasen
+ platz\nAufstellung: alle Spieler\nAnfahrt: https://www.google.com/maps/sea
+ rch/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:610152014@flb.de
-DTSTAMP:20260827T134519Z
-LAST-MODIFIED:20260827T134519Z
+DTSTAMP:20260827T194905Z
+LAST-MODIFIED:20260827T194905Z
 DTSTART;TZID=Europe/Berlin:20260910T164500
-DTEND;TZID=Europe/Berlin:20260910T193500
-SEQUENCE:5
+DTEND;TZID=Europe/Berlin:20260910T200500
+SEQUENCE:6
 SUMMARY:B-Junioren: FC Energie Cottbus U16 – SV Wacker 09 Cottbus-Ströbi
  tz
 LOCATION:Sportplatz am Priorgraben\, KR\, Am Priorgraben 53a\, 03048 Cottbu
  s
-DESCRIPTION:Anstoß 18:00 Uhr · Treffpunkt 16:45 Uhr\nPlatzart: Kunstrasen
- platz\n\nB-Junioren · Landesliga · BBL Staffel 2\n4. Spieltag · Auswär
- tsspiel\n\nSpielort: Sportplatz am Priorgraben\, KR\, Am Priorgraben 53a\,
-  03048 Cottbus\nhttps://www.google.com/maps/search/?api=1&query=Am+Priorgr
- aben+53a%2C+03048+Cottbus\n\nSpielkennung 610152014
+DESCRIPTION:FC Energie Cottbus U16 – SV Wacker 09 Cottbus-Ströbitz\nWett
+ bewerb: B-Junioren · Landesliga · BBL Staffel 2\nAnsetzung: 4. Spieltag 
+ · Auswärtsspiel\nSpielkennung: 610152014\nSpielort: Sportplatz am Priorg
+ raben\, KR\, Am Priorgraben 53a\, 03048 Cottbus\nDatum: Donnerstag\, 10.09
+ .2026\nAnstoß: 18:00 Uhr\nAnreise: 16:45 Uhr\nEnde: 20:05 Uhr\nPlatzart: 
+ Kunstrasenplatz\nAufstellung: alle Spieler\nAnfahrt: https://www.google.co
+ m/maps/search/?api=1&query=Am+Priorgraben+53a%2C+03048+Cottbus
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:610152017@flb.de
-DTSTAMP:20260822T143020Z
-LAST-MODIFIED:20260822T143020Z
+DTSTAMP:20260827T194905Z
+LAST-MODIFIED:20260827T194905Z
 DTSTART;TZID=Europe/Berlin:20260920T094500
-DTEND;TZID=Europe/Berlin:20260920T123500
-SEQUENCE:2
+DTEND;TZID=Europe/Berlin:20260920T130500
+SEQUENCE:3
 SUMMARY:B-Junioren: SV Wacker 09 Cottbus-Ströbitz – FSV Union Fürstenwa
  lde
 LOCATION:Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus
-DESCRIPTION:Anstoß 11:00 Uhr · Treffpunkt 09:45 Uhr\nPlatzart: Kunstrasen
- platz\n\nB-Junioren · Landesliga · BBL Staffel 2\n5. Spieltag · Heimspi
- el\n\nSpielort: Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cott
- bus\nhttps://www.google.com/maps/search/?api=1&query=Zahsower+Str.+12%2C+0
- 3046+Cottbus\n\nSpielkennung 610152017
+DESCRIPTION:SV Wacker 09 Cottbus-Ströbitz – FSV Union Fürstenwalde\nWet
+ tbewerb: B-Junioren · Landesliga · BBL Staffel 2\nAnsetzung: 5. Spieltag
+  · Heimspiel\nSpielkennung: 610152017\nSpielort: Kunstrasenplatz Auf Wack
+ er\, Zahsower Str. 12\, 03046 Cottbus\nDatum: Sonntag\, 20.09.2026\nAnsto
+ ß: 11:00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13:05 Uhr\nPlatzart: Kunstrasenpl
+ atz\nAufstellung: alle Spieler\nAnfahrt: https://www.google.com/maps/searc
+ h/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:610152021@flb.de
-DTSTAMP:20260822T143020Z
-LAST-MODIFIED:20260822T143020Z
+DTSTAMP:20260827T194905Z
+LAST-MODIFIED:20260827T194905Z
 DTSTART;TZID=Europe/Berlin:20261004T094500
-DTEND;TZID=Europe/Berlin:20261004T123500
-SEQUENCE:2
+DTEND;TZID=Europe/Berlin:20261004T130500
+SEQUENCE:3
 SUMMARY:B-Junioren: SV Wacker 09 Cottbus-Ströbitz – SV 1908 Grün-Weiss 
  Ahrensfelde
 LOCATION:Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus
-DESCRIPTION:Anstoß 11:00 Uhr · Treffpunkt 09:45 Uhr\nPlatzart: Kunstrasen
- platz\n\nB-Junioren · Landesliga · BBL Staffel 2\n6. Spieltag · Heimspi
- el\n\nSpielort: Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cott
- bus\nhttps://www.google.com/maps/search/?api=1&query=Zahsower+Str.+12%2C+0
- 3046+Cottbus\n\nSpielkennung 610152021
+DESCRIPTION:SV Wacker 09 Cottbus-Ströbitz – SV 1908 Grün-Weiss Ahrensfe
+ lde\nWettbewerb: B-Junioren · Landesliga · BBL Staffel 2\nAnsetzung: 6. 
+ Spieltag · Heimspiel\nSpielkennung: 610152021\nSpielort: Kunstrasenplatz 
+ Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus\nDatum: Sonntag\, 04.10.2026
+ \nAnstoß: 11:00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13:05 Uhr\nPlatzart: Kunst
+ rasenplatz\nAufstellung: alle Spieler\nAnfahrt: https://www.google.com/map
+ s/search/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:610152028@flb.de
-DTSTAMP:20260822T143020Z
-LAST-MODIFIED:20260822T143020Z
+DTSTAMP:20260827T194905Z
+LAST-MODIFIED:20260827T194905Z
 DTSTART;TZID=Europe/Berlin:20261010T094500
-DTEND;TZID=Europe/Berlin:20261010T123500
-SEQUENCE:3
+DTEND;TZID=Europe/Berlin:20261010T130500
+SEQUENCE:4
 SUMMARY:B-Junioren: 1. FC Frankfurt/O. – SV Wacker 09 Cottbus-Ströbitz
 LOCATION:Stadion der Freundschaft\, Dieter-Schulz-Platz\, Buschmühlenweg 1
  72\, 15230 Frankfurt (Oder)
-DESCRIPTION:Anstoß 11:00 Uhr · Treffpunkt 09:45 Uhr\nPlatzart: Rasenplatz
- \n\nB-Junioren · Landesliga · BBL Staffel 2\n7. Spieltag · Auswärtsspi
- el\n\nSpielort: Stadion der Freundschaft\, Dieter-Schulz-Platz\, Buschmüh
- lenweg 172\, 15230 Frankfurt (Oder)\nhttps://www.google.com/maps/search/?a
- pi=1&query=Buschm%C3%BChlenweg+172%2C+15230+Frankfurt+%28Oder%29\n\nSpielk
- ennung 610152028
+DESCRIPTION:1. FC Frankfurt/O. – SV Wacker 09 Cottbus-Ströbitz\nWettbewe
+ rb: B-Junioren · Landesliga · BBL Staffel 2\nAnsetzung: 7. Spieltag · A
+ uswärtsspiel\nSpielkennung: 610152028\nSpielort: Stadion der Freundschaft
+ \, Dieter-Schulz-Platz\, Buschmühlenweg 172\, 15230 Frankfurt (Oder)\nDat
+ um: Samstag\, 10.10.2026\nAnstoß: 11:00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13
+ :05 Uhr\nPlatzart: Rasenplatz\nAufstellung: alle Spieler\nAnfahrt: https:/
+ /www.google.com/maps/search/?api=1&query=Buschm%C3%BChlenweg+172%2C+15230+
+ Frankfurt+%28Oder%29
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:690004137@flb.de
-DTSTAMP:20260827T135019Z
-LAST-MODIFIED:20260827T135019Z
+DTSTAMP:20260827T194905Z
+LAST-MODIFIED:20260827T194905Z
 DTSTART;TZID=Europe/Berlin:20260805T101500
-DTEND;TZID=Europe/Berlin:20260805T130500
-SEQUENCE:1
+DTEND;TZID=Europe/Berlin:20260805T133500
+SEQUENCE:2
 SUMMARY:Abgesetzt: B-Junioren: FC Energie Cottbus U16 – SV Wacker 09 B-Ju
  nioren
 LOCATION:
-DESCRIPTION:Anstoß 11:30 Uhr · Treffpunkt 10:15 Uhr\n\nB-Junioren · Regi
- onalfreundschaftsspiele\nAuswärtsspiel\n\nSpielort: \nhttps://www.google.
- com/maps/search/?api=1&query=FC+Energie+Cottbus+U16\n\nSpielkennung 690004
- 137\nABGESETZT — dieses Spiel wird nach dem Stand von fussball.de nicht 
- gespielt.
+DESCRIPTION:FC Energie Cottbus U16 – SV Wacker 09 B-Junioren\nWettbewerb:
+  B-Junioren · Regionalfreundschaftsspiele\nAnsetzung: Auswärtsspiel\nSpi
+ elkennung: 690004137\nSpielort: nicht hinterlegt\nDatum: Mittwoch\, 05.08.
+ 2026\nAnstoß: 11:30 Uhr\nAnreise: 10:15 Uhr\nEnde: 13:35 Uhr\nPlatzart: n
+ icht hinterlegt\nAufstellung: alle Spieler\nAnfahrt: https://www.google.co
+ m/maps/search/?api=1&query=FC+Energie+Cottbus+U16\nABGESETZT — dieses Sp
+ iel wird nach dem Stand von fussball.de nicht gespielt.
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:710074001@flb.de
-DTSTAMP:20260826T162254Z
-LAST-MODIFIED:20260826T162254Z
+DTSTAMP:20260827T194905Z
+LAST-MODIFIED:20260827T194905Z
 DTSTART;TZID=Europe/Berlin:20260926T094500
-DTEND;TZID=Europe/Berlin:20260926T123500
-SEQUENCE:0
+DTEND;TZID=Europe/Berlin:20260926T130500
+SEQUENCE:1
 SUMMARY:B-Junioren: SpG FSV Optik Rathenow/TSV Chemie Premnitz – SV Wacke
  r 09 Cottbus-Ströbitz
 LOCATION:Stadion Vogelgesang\, Platz 2\, Birkenweg 45\, 14712 Rathenow
-DESCRIPTION:Anstoß 11:00 Uhr · Treffpunkt 09:45 Uhr\nPlatzart: Rasenplatz
- \n\nB-Junioren · Brandenburg-Pokal\nAuswärtsspiel\n\nSpielort: Stadion V
- ogelgesang\, Platz 2\, Birkenweg 45\, 14712 Rathenow\nhttps://www.google.c
- om/maps/search/?api=1&query=Birkenweg+45%2C+14712+Rathenow\n\nSpielkennung
-  710074001
+DESCRIPTION:SpG FSV Optik Rathenow/TSV Chemie Premnitz – SV Wacker 09 Cot
+ tbus-Ströbitz\nWettbewerb: B-Junioren · Brandenburg-Pokal\nAnsetzung: Au
+ swärtsspiel\nSpielkennung: 710074001\nSpielort: Stadion Vogelgesang\, Pla
+ tz 2\, Birkenweg 45\, 14712 Rathenow\nDatum: Samstag\, 26.09.2026\nAnstoß
+ : 11:00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13:05 Uhr\nPlatzart: Rasenplatz\nAu
+ fstellung: alle Spieler\nAnfahrt: https://www.google.com/maps/search/?api=
+ 1&query=Birkenweg+45%2C+14712+Rathenow
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:810003065@flb.de
-DTSTAMP:20260826T162254Z
-LAST-MODIFIED:20260826T162254Z
+DTSTAMP:20260827T194905Z
+LAST-MODIFIED:20260827T194905Z
 DTSTART;TZID=Europe/Berlin:20260818T164500
-DTEND;TZID=Europe/Berlin:20260818T193500
-SEQUENCE:0
+DTEND;TZID=Europe/Berlin:20260818T200500
+SEQUENCE:1
 SUMMARY:B-Junioren: SpG Kunersdorf/Kolkwitz/Krieschow/Klein GaglowB1 – SV
   Wacker 09 B1
 LOCATION:Sportplatz Klein Gaglow\, Bergstraße 26\, 03099 Kolkwitz
-DESCRIPTION:Anstoß 18:00 Uhr · Treffpunkt 16:45 Uhr\nPlatzart: Rasenplatz
- \n\nB-Junioren · Landesfreundschaftsspiele\nAuswärtsspiel\n\nSpielort: S
- portplatz Klein Gaglow\, Bergstraße 26\, 03099 Kolkwitz\nhttps://www.goog
- le.com/maps/search/?api=1&query=Bergstra%C3%9Fe+26%2C+03099+Kolkwitz\n\nSp
- ielkennung 810003065
+DESCRIPTION:SpG Kunersdorf/Kolkwitz/Krieschow/Klein GaglowB1 – SV Wacker 
+ 09 B1\nWettbewerb: B-Junioren · Landesfreundschaftsspiele\nAnsetzung: Aus
+ wärtsspiel\nSpielkennung: 810003065\nSpielort: Sportplatz Klein Gaglow\, 
+ Bergstraße 26\, 03099 Kolkwitz\nDatum: Dienstag\, 18.08.2026\nAnstoß: 18
+ :00 Uhr\nAnreise: 16:45 Uhr\nEnde: 20:05 Uhr\nPlatzart: Rasenplatz\nAufste
+ llung: alle Spieler\nAnfahrt: https://www.google.com/maps/search/?api=1&qu
+ ery=Bergstra%C3%9Fe+26%2C+03099+Kolkwitz
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:860010046@flb.de
-DTSTAMP:20260826T162254Z
-LAST-MODIFIED:20260826T162254Z
+DTSTAMP:20260827T194905Z
+LAST-MODIFIED:20260827T194905Z
 DTSTART;TZID=Europe/Berlin:20260815T093000
-DTEND;TZID=Europe/Berlin:20260815T122000
-SEQUENCE:0
+DTEND;TZID=Europe/Berlin:20260815T125000
+SEQUENCE:1
 SUMMARY:B-Junioren: FC Stern Marienfelde – SV Wacker 09 B1
 LOCATION:Baußnernweg (Schule) KR1\, Baußnernweg 7\, 12279 Berlin
-DESCRIPTION:Anstoß 10:45 Uhr · Treffpunkt 09:30 Uhr\nPlatzart: Kunstrasen
- platz\n\nB-Junioren · Landesfreundschaftsspiele\nAuswärtsspiel\n\nSpielo
- rt: Baußnernweg (Schule) KR1\, Baußnernweg 7\, 12279 Berlin\nhttps://www
- .google.com/maps/search/?api=1&query=Bau%C3%9Fnernweg+7%2C+12279+Berlin\n\
- nSpielkennung 860010046
+DESCRIPTION:FC Stern Marienfelde – SV Wacker 09 B1\nWettbewerb: B-Juniore
+ n · Landesfreundschaftsspiele\nAnsetzung: Auswärtsspiel\nSpielkennung: 8
+ 60010046\nSpielort: Baußnernweg (Schule) KR1\, Baußnernweg 7\, 12279 Ber
+ lin\nDatum: Samstag\, 15.08.2026\nAnstoß: 10:45 Uhr\nAnreise: 09:30 Uhr\n
+ Ende: 12:50 Uhr\nPlatzart: Kunstrasenplatz\nAufstellung: alle Spieler\nAnf
+ ahrt: https://www.google.com/maps/search/?api=1&query=Bau%C3%9Fnernweg+7%2
+ C+12279+Berlin
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:860010085@flb.de
-DTSTAMP:20260826T162254Z
-LAST-MODIFIED:20260826T162254Z
+DTSTAMP:20260827T194905Z
+LAST-MODIFIED:20260827T194905Z
 DTSTART;TZID=Europe/Berlin:20260808T134500
-DTEND;TZID=Europe/Berlin:20260808T163500
-SEQUENCE:0
+DTEND;TZID=Europe/Berlin:20260808T170500
+SEQUENCE:1
 SUMMARY:B-Junioren: TSV Rudow – SV Wacker 09 B1
 LOCATION:Stubenrauchstraße KR1\, Neuköllner Str. 277\, 12357 Berlin
-DESCRIPTION:Anstoß 15:00 Uhr · Treffpunkt 13:45 Uhr\nPlatzart: Kunstrasen
- platz\n\nB-Junioren · Landesfreundschaftsspiele\nAuswärtsspiel\n\nSpielo
- rt: Stubenrauchstraße KR1\, Neuköllner Str. 277\, 12357 Berlin\nhttps://
- www.google.com/maps/search/?api=1&query=Neuk%C3%B6llner+Str.+277%2C+12357+
- Berlin\n\nSpielkennung 860010085
+DESCRIPTION:TSV Rudow – SV Wacker 09 B1\nWettbewerb: B-Junioren · Landes
+ freundschaftsspiele\nAnsetzung: Auswärtsspiel\nSpielkennung: 860010085\nS
+ pielort: Stubenrauchstraße KR1\, Neuköllner Str. 277\, 12357 Berlin\nDat
+ um: Samstag\, 08.08.2026\nAnstoß: 15:00 Uhr\nAnreise: 13:45 Uhr\nEnde: 17
+ :05 Uhr\nPlatzart: Kunstrasenplatz\nAufstellung: alle Spieler\nAnfahrt: ht
+ tps://www.google.com/maps/search/?api=1&query=Neuk%C3%B6llner+Str.+277%2C+
+ 12357+Berlin
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
