@@ -162,20 +162,22 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:690004137@flb.de
-DTSTAMP:20260826T162254Z
-LAST-MODIFIED:20260826T162254Z
+DTSTAMP:20260827T135019Z
+LAST-MODIFIED:20260827T135019Z
 DTSTART;TZID=Europe/Berlin:20260805T101500
 DTEND;TZID=Europe/Berlin:20260805T130500
-SEQUENCE:0
-SUMMARY:B-Junioren: FC Energie Cottbus U16 – SV Wacker 09 B-Junioren
+SEQUENCE:1
+SUMMARY:Abgesetzt: B-Junioren: FC Energie Cottbus U16 – SV Wacker 09 B-Ju
+ nioren
 LOCATION:
 DESCRIPTION:Anstoß 11:30 Uhr · Treffpunkt 10:15 Uhr\n\nB-Junioren · Regi
  onalfreundschaftsspiele\nAuswärtsspiel\n\nSpielort: \nhttps://www.google.
  com/maps/search/?api=1&query=FC+Energie+Cottbus+U16\n\nSpielkennung 690004
- 137
+ 137\nABGESETZT — dieses Spiel wird nach dem Stand von fussball.de nicht 
+ gespielt.
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:710074001@flb.de

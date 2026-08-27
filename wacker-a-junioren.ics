@@ -521,19 +521,21 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:810007003@flb.de
-DTSTAMP:20260826T162254Z
-LAST-MODIFIED:20260826T162254Z
+DTSTAMP:20260827T135019Z
+LAST-MODIFIED:20260827T135019Z
 DTSTART;TZID=Europe/Berlin:20260815T101500
 DTEND;TZID=Europe/Berlin:20260815T131500
-SEQUENCE:0
-SUMMARY:A-Junioren: BSC Preußen 1 – SV Wacker 09 A-Junioren
+SEQUENCE:1
+SUMMARY:Abgesetzt: A-Junioren: BSC Preußen 1 – SV Wacker 09 A-Junioren
 LOCATION:
 DESCRIPTION:Anstoß 11:30 Uhr · Treffpunkt 10:15 Uhr\n\nA-Junioren · Land
  esfreundschaftsspiele\nAuswärtsspiel\n\nSpielort: \nhttps://www.google.co
- m/maps/search/?api=1&query=BSC+Preu%C3%9Fen+1\n\nSpielkennung 810007003
+ m/maps/search/?api=1&query=BSC+Preu%C3%9Fen+1\n\nSpielkennung 810007003\nA
+ BGESETZT — dieses Spiel wird nach dem Stand von fussball.de nicht gespie
+ lt.
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:810007043@flb.de
