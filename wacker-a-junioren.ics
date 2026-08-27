@@ -118,13 +118,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:610089037@flb.de
-DTSTAMP:20260822T143020Z
-LAST-MODIFIED:20260822T143020Z
+DTSTAMP:20260827T193851Z
+LAST-MODIFIED:20260827T193851Z
 DTSTART;TZID=Europe/Berlin:20261003T114500
 DTEND;TZID=Europe/Berlin:20261003T144500
-SEQUENCE:2
+SEQUENCE:3
 SUMMARY:A-Junioren: SV Wacker 09 Cottbus-Ströbitz – SpG Hansa Wittstock 
- /Meyenburg
+ / Meyenburg
 LOCATION:Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus
 DESCRIPTION:Anstoß 13:00 Uhr · Treffpunkt 11:45 Uhr\nPlatzart: Kunstrasen
  platz\n\nA-Junioren · Verbandsliga · Brandenburgliga\n6. Spieltag · Hei
@@ -290,13 +290,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:610089100@flb.de
-DTSTAMP:20260822T143020Z
-LAST-MODIFIED:20260822T143020Z
+DTSTAMP:20260827T193851Z
+LAST-MODIFIED:20260827T193851Z
 DTSTART;TZID=Europe/Berlin:20270228T094500
 DTEND;TZID=Europe/Berlin:20270228T124500
-SEQUENCE:2
-SUMMARY:A-Junioren: SpG Hansa Wittstock /Meyenburg – SV Wacker 09 Cottbus
- -Ströbitz
+SEQUENCE:3
+SUMMARY:A-Junioren: SpG Hansa Wittstock / Meyenburg – SV Wacker 09 Cottbu
+ s-Ströbitz
 LOCATION:Stadion des Friedens\, Platz 1\, Friedrich-Ludwig-Jahn-Str. 62\, 1
  6909 Wittstock/Dosse
 DESCRIPTION:Anstoß 11:00 Uhr · Treffpunkt 09:45 Uhr\nPlatzart: Rasenplatz

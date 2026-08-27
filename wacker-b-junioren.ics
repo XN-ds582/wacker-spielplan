@@ -46,19 +46,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:610152007@flb.de
-DTSTAMP:20260827T133557Z
-LAST-MODIFIED:20260827T133557Z
+DTSTAMP:20260827T193851Z
+LAST-MODIFIED:20260827T193851Z
 DTSTART;TZID=Europe/Berlin:20260829T094500
 DTEND;TZID=Europe/Berlin:20260829T123500
-SEQUENCE:3
+SEQUENCE:4
 SUMMARY:B-Junioren: FV Preussen Eberswalde – SV Wacker 09 Cottbus-Ströbi
  tz
-LOCATION:Westend-Stadion\, KR\, Heegermühler Str. 69a\, 16225 Eberswalde
+LOCATION:Master of Colors - Arena\, Fritz-Lesch-Stadion\, Am Stadion 1\, 16
+ 225 Eberswalde
 DESCRIPTION:Anstoß 11:00 Uhr · Treffpunkt 09:45 Uhr\nPlatzart: Kunstrasen
  platz\n\nB-Junioren · Landesliga · BBL Staffel 2\n2. Spieltag · Auswär
- tsspiel\n\nSpielort: Westend-Stadion\, KR\, Heegermühler Str. 69a\, 16225
-  Eberswalde\nhttps://www.google.com/maps/search/?api=1&query=Heegerm%C3%BC
- hler+Str.+69a%2C+16225+Eberswalde\n\nSpielkennung 610152007
+ tsspiel\n\nSpielort: Master of Colors - Arena\, Fritz-Lesch-Stadion\, Am S
+ tadion 1\, 16225 Eberswalde\nhttps://www.google.com/maps/search/?api=1&que
+ ry=Am+Stadion+1%2C+16225+Eberswalde\n\nSpielkennung 610152007
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
