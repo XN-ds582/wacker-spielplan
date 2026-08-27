@@ -84,16 +84,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:610152014@flb.de
-DTSTAMP:20260827T133557Z
-LAST-MODIFIED:20260827T133557Z
-DTSTART;TZID=Europe/Berlin:20260913T104500
-DTEND;TZID=Europe/Berlin:20260913T133500
-SEQUENCE:4
+DTSTAMP:20260827T134519Z
+LAST-MODIFIED:20260827T134519Z
+DTSTART;TZID=Europe/Berlin:20260910T164500
+DTEND;TZID=Europe/Berlin:20260910T193500
+SEQUENCE:5
 SUMMARY:B-Junioren: FC Energie Cottbus U16 – SV Wacker 09 Cottbus-Ströbi
  tz
 LOCATION:Sportplatz am Priorgraben\, KR\, Am Priorgraben 53a\, 03048 Cottbu
  s
-DESCRIPTION:Anstoß 12:00 Uhr · Treffpunkt 10:45 Uhr\nPlatzart: Kunstrasen
+DESCRIPTION:Anstoß 18:00 Uhr · Treffpunkt 16:45 Uhr\nPlatzart: Kunstrasen
  platz\n\nB-Junioren · Landesliga · BBL Staffel 2\n4. Spieltag · Auswär
  tsspiel\n\nSpielort: Sportplatz am Priorgraben\, KR\, Am Priorgraben 53a\,
   03048 Cottbus\nhttps://www.google.com/maps/search/?api=1&query=Am+Priorgr
