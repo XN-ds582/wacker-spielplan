@@ -21,7 +21,10 @@
   .unter { color:var(--matt); margin:0 0 1.5rem; font-size:.9rem; }
 
   .kopf { display:flex; gap:.7rem; align-items:baseline; flex-wrap:wrap; margin-bottom:1rem; }
-  .kopf h2 { font-size:1.1rem; margin:0; }
+  /* AM BILDSCHIRM IST DIE AUSWAHL DIE UEBERSCHRIFT. Auf Papier gibt es sie
+     nicht -- dort tritt die h2 an ihre Stelle, sonst haengt ein Aushang ohne
+     Datum an der Tuer. */
+  .kopf h2 { font-size:1.1rem; margin:0; display:none; }
   .kopf .zahl { color:var(--matt); font-size:.88rem; }
   .knopf { border:1px solid var(--linie); background:var(--karte); color:var(--fg);
            border-radius:6px; padding:.35rem .7rem; font:inherit; font-size:.85rem;
@@ -30,7 +33,7 @@
   .knopf:disabled { opacity:.35; cursor:default; }
   /* Ein <select> erbt die Schrift nicht von selbst -- ohne das steht die
      Tagesauswahl in der Systemschrift neben den Knoepfen. */
-  select.knopf { font:inherit; max-width:min(100%, 22rem); }
+  #tagwahl { font:inherit; font-size:1.1rem; max-width:min(100%, 22rem); }
 
   .plan { background:var(--karte); border:1px solid var(--linie); border-radius:10px;
           overflow-x:auto; padding:.6rem 0 .2rem; }
@@ -101,6 +104,7 @@
     @page { size:A4 landscape; margin:12mm; }
     body { padding:0; background:#fff; color:#000; }
     .knopf, .fuss { display:none; }
+    .kopf h2 { display:block; }
     .plan { border:1px solid #999; overflow:visible; }
     .block { border-color:#666; }
   }
@@ -113,10 +117,10 @@
 
   <div class="kopf">
     <button class="knopf" id="zurueck">‹ voriger</button>
-    <h2 id="titel">—</h2>
-    <span class="zahl" id="zahl"></span>
-    <button class="knopf" id="vor">nächster ›</button>
     <select class="knopf" id="tagwahl" aria-label="Spieltag wählen"></select>
+    <h2 id="titel">—</h2>
+    <button class="knopf" id="vor">nächster ›</button>
+    <span class="zahl" id="zahl"></span>
     <button class="knopf" id="drucken">Drucken</button>
   </div>
 
@@ -175,15 +179,13 @@ if (heute < 0) heute = Math.max(0, TAGE.length - 1);
 // TAGESAUSWAHL. Die beiden Pfeile reichen fuer den naechsten Samstag, nicht
 // fuer den im Maerz -- wer einen bestimmten Spieltag sucht, soll ihn in einer
 // Liste sehen statt sechzehnmal zu klicken. Die Zahl steht mit dran, weil ein
-// Tag mit einem Spiel anders gesucht wird als einer mit sieben.
+// Die Spielzahl steht daneben in .zahl und gehoert deshalb nicht hinein.
 const WAHL = document.getElementById("tagwahl");
 for (const d of TAGE) {
   const w = new Date(d + "T12:00:00");
-  const n = ((DATEN.tage[d] || {}).spiele || []).length;
   const o = document.createElement("option");
   o.value = d;
-  o.textContent = `${WOCHENTAG[w.getDay()].slice(0, 2)}, `
-    + `${w.toLocaleDateString("de-DE")} · ${n} ${n === 1 ? "Spiel" : "Spiele"}`;
+  o.textContent = `${WOCHENTAG[w.getDay()]}, ${w.toLocaleDateString("de-DE")}`;
   WAHL.append(o);
 }
 WAHL.addEventListener("change", () => {
