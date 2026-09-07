@@ -41,7 +41,8 @@ DESCRIPTION:SV Wacker 09 Cottbus-Ströbitz – FC Neuenhagen 1913\nWettbewe
  Zahsower Str. 12\, 03046 Cottbus\nDatum: Sonntag\, 23.08.2026\nAnstoß: 11
  :00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13:05 Uhr\nPlatzart: Kunstrasenplatz\nA
  ufstellung: alle Spieler\nAnfahrt: https://www.google.com/maps/search/?api
- =1&query=Zahsower+Str.+12%2C+03046+Cottbus
+ =1&query=Zahsower+Str.+12%2C+03046+Cottbus\nGegnerblatt: noch nicht erstel
+ lt
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
@@ -63,7 +64,8 @@ DESCRIPTION:FV Preussen Eberswalde – SV Wacker 09 Cottbus-Ströbitz\nWett
  rena\, Fritz-Lesch-Stadion\, Am Stadion 1\, 16225 Eberswalde\nDatum: Samst
  ag\, 29.08.2026\nAnstoß: 11:00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13:05 Uhr\n
  Platzart: Kunstrasenplatz\nAufstellung: alle Spieler\nAnfahrt: https://www
- .google.com/maps/search/?api=1&query=Am+Stadion+1%2C+16225+Eberswalde
+ .google.com/maps/search/?api=1&query=Am+Stadion+1%2C+16225+Eberswalde\nGeg
+ nerblatt: noch nicht erstellt
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
@@ -84,7 +86,8 @@ DESCRIPTION:SV Wacker 09 Cottbus-Ströbitz – SV Germania 90 Schöneiche\n
  acker\, Zahsower Str. 12\, 03046 Cottbus\nDatum: Sonntag\, 06.09.2026\nAns
  toß: 11:00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13:05 Uhr\nPlatzart: Kunstrasen
  platz\nAufstellung: alle Spieler\nAnfahrt: https://www.google.com/maps/sea
- rch/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus
+ rch/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\nGegnerblatt: noch nich
+ t erstellt
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
@@ -106,10 +109,15 @@ DESCRIPTION:FC Energie Cottbus U16 – SV Wacker 09 Cottbus-Ströbitz\nWett
  raben\, KR\, Am Priorgraben 53a\, 03048 Cottbus\nDatum: Donnerstag\, 10.09
  .2026\nAnstoß: 18:00 Uhr\nAnreise: 16:45 Uhr\nEnde: 20:05 Uhr\nPlatzart: 
  Kunstrasenplatz\nAufstellung: alle Spieler\nAnfahrt: https://www.google.co
- m/maps/search/?api=1&query=Am+Priorgraben+53a%2C+03048+Cottbus
+ m/maps/search/?api=1&query=Am+Priorgraben+53a%2C+03048+Cottbus\nGegnerblat
+ t: https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2026-09-
+ 10_B1_FC-Energie-Cottbus-U16.pdf
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
+ATTACH;FMTTYPE=application/pdf;FILENAME=2026-09-10_B1_FC-Energie-Cottbus-U1
+ 6.pdf:https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2026-
+ 09-10_B1_FC-Energie-Cottbus-U16.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:610152017@flb.de
@@ -127,7 +135,8 @@ DESCRIPTION:SV Wacker 09 Cottbus-Ströbitz – FSV Union Fürstenwalde\nWet
  er\, Zahsower Str. 12\, 03046 Cottbus\nDatum: Sonntag\, 20.09.2026\nAnsto
  ß: 11:00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13:05 Uhr\nPlatzart: Kunstrasenpl
  atz\nAufstellung: alle Spieler\nAnfahrt: https://www.google.com/maps/searc
- h/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus
+ h/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\nGegnerblatt: noch nicht 
+ erstellt
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
@@ -148,7 +157,8 @@ DESCRIPTION:SV Wacker 09 Cottbus-Ströbitz – SV 1908 Grün-Weiss Ahrensfe
  Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus\nDatum: Sonntag\, 04.10.2026
  \nAnstoß: 11:00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13:05 Uhr\nPlatzart: Kunst
  rasenplatz\nAufstellung: alle Spieler\nAnfahrt: https://www.google.com/map
- s/search/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus
+ s/search/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\nGegnerblatt: noch
+  nicht erstellt
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
@@ -170,7 +180,7 @@ DESCRIPTION:1. FC Frankfurt/O. – SV Wacker 09 Cottbus-Ströbitz\nWettbewe
  um: Samstag\, 10.10.2026\nAnstoß: 11:00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13
  :05 Uhr\nPlatzart: Rasenplatz\nAufstellung: alle Spieler\nAnfahrt: https:/
  /www.google.com/maps/search/?api=1&query=Buschm%C3%BChlenweg+172%2C+15230+
- Frankfurt+%28Oder%29
+ Frankfurt+%28Oder%29\nGegnerblatt: noch nicht erstellt
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
@@ -190,8 +200,9 @@ DESCRIPTION:FC Energie Cottbus U16 – SV Wacker 09 B-Junioren\nWettbewerb:
  elkennung: 690004137\nSpielort: nicht hinterlegt\nDatum: Mittwoch\, 05.08.
  2026\nAnstoß: 11:30 Uhr\nAnreise: 10:15 Uhr\nEnde: 13:35 Uhr\nPlatzart: n
  icht hinterlegt\nAufstellung: alle Spieler\nAnfahrt: https://www.google.co
- m/maps/search/?api=1&query=FC+Energie+Cottbus+U16\nABGESETZT — dieses Sp
- iel wird nach dem Stand von fussball.de nicht gespielt.
+ m/maps/search/?api=1&query=FC+Energie+Cottbus+U16\nGegnerblatt: noch nicht
+  erstellt\nABGESETZT — dieses Spiel wird nach dem Stand von fussball.de 
+ nicht gespielt.
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CANCELLED
@@ -212,7 +223,7 @@ DESCRIPTION:SpG FSV Optik Rathenow/TSV Chemie Premnitz – SV Wacker 09 Cot
  tz 2\, Birkenweg 45\, 14712 Rathenow\nDatum: Samstag\, 26.09.2026\nAnstoß
  : 11:00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13:05 Uhr\nPlatzart: Rasenplatz\nAu
  fstellung: alle Spieler\nAnfahrt: https://www.google.com/maps/search/?api=
- 1&query=Birkenweg+45%2C+14712+Rathenow
+ 1&query=Birkenweg+45%2C+14712+Rathenow\nGegnerblatt: noch nicht erstellt
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
@@ -233,7 +244,7 @@ DESCRIPTION:SpG Kunersdorf/Kolkwitz/Krieschow/Klein GaglowB1 – SV Wacker
  Bergstraße 26\, 03099 Kolkwitz\nDatum: Dienstag\, 18.08.2026\nAnstoß: 18
  :00 Uhr\nAnreise: 16:45 Uhr\nEnde: 20:05 Uhr\nPlatzart: Rasenplatz\nAufste
  llung: alle Spieler\nAnfahrt: https://www.google.com/maps/search/?api=1&qu
- ery=Bergstra%C3%9Fe+26%2C+03099+Kolkwitz
+ ery=Bergstra%C3%9Fe+26%2C+03099+Kolkwitz\nGegnerblatt: noch nicht erstellt
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
@@ -253,7 +264,7 @@ DESCRIPTION:FC Stern Marienfelde – SV Wacker 09 B1\nWettbewerb: B-Juniore
  lin\nDatum: Samstag\, 15.08.2026\nAnstoß: 10:45 Uhr\nAnreise: 09:30 Uhr\n
  Ende: 12:50 Uhr\nPlatzart: Kunstrasenplatz\nAufstellung: alle Spieler\nAnf
  ahrt: https://www.google.com/maps/search/?api=1&query=Bau%C3%9Fnernweg+7%2
- C+12279+Berlin
+ C+12279+Berlin\nGegnerblatt: noch nicht erstellt
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
@@ -273,7 +284,7 @@ DESCRIPTION:TSV Rudow – SV Wacker 09 B1\nWettbewerb: B-Junioren · Landes
  um: Samstag\, 08.08.2026\nAnstoß: 15:00 Uhr\nAnreise: 13:45 Uhr\nEnde: 17
  :05 Uhr\nPlatzart: Kunstrasenplatz\nAufstellung: alle Spieler\nAnfahrt: ht
  tps://www.google.com/maps/search/?api=1&query=Neuk%C3%B6llner+Str.+277%2C+
- 12357+Berlin
+ 12357+Berlin\nGegnerblatt: noch nicht erstellt
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
