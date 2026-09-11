@@ -110,14 +110,10 @@ DESCRIPTION:FC Energie Cottbus U16 – SV Wacker 09 Cottbus-Ströbitz\nWett
  .2026\nAnstoß: 18:00 Uhr\nAnreise: 16:45 Uhr\nEnde: 20:05 Uhr\nPlatzart: 
  Kunstrasenplatz\nAufstellung: alle Spieler\nAnfahrt: https://www.google.co
  m/maps/search/?api=1&query=Am+Priorgraben+53a%2C+03048+Cottbus\nGegnerblat
- t: https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2026-09-
- 10_B1_FC-Energie-Cottbus-U16.pdf
+ t: noch nicht erstellt
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-ATTACH;FMTTYPE=application/pdf;FILENAME=2026-09-10_B1_FC-Energie-Cottbus-U1
- 6.pdf:https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2026-
- 09-10_B1_FC-Energie-Cottbus-U16.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:610152017@flb.de
@@ -135,11 +131,15 @@ DESCRIPTION:SV Wacker 09 Cottbus-Ströbitz – FSV Union Fürstenwalde\nWet
  er\, Zahsower Str. 12\, 03046 Cottbus\nDatum: Sonntag\, 20.09.2026\nAnsto
  ß: 11:00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13:05 Uhr\nPlatzart: Kunstrasenpl
  atz\nAufstellung: alle Spieler\nAnfahrt: https://www.google.com/maps/searc
- h/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\nGegnerblatt: noch nicht 
- erstellt
+ h/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\nGegnerblatt: https://cdn
+ .jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2026-09-20_B1_FSV-Unio
+ n-Fuerstenwalde.pdf
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
+ATTACH;FMTTYPE=application/pdf;FILENAME=2026-09-20_B1_FSV-Union-Fuerstenwal
+ de.pdf:https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2026
+ -09-20_B1_FSV-Union-Fuerstenwalde.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:610152021@flb.de
