@@ -102,15 +102,11 @@ DESCRIPTION:FSV 63 Luckenwalde – SV Wacker 09 Cottbus-Ströbitz\nWettbewe
  , An den Ziegeleien 16\, 14943 Luckenwalde\nDatum: Samstag\, 12.09.2026\nA
  nstoß: 11:00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13:15 Uhr\nPlatzart: Rasenpla
  tz\nAufstellung: alle Spieler\nAnfahrt: https://www.google.com/maps/search
- /?api=1&query=An+den+Ziegeleien+16%2C+14943+Luckenwalde\nGegnerblatt: http
- s://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2026-09-12_A-Ju
- nioren_FSV-63-Luckenwalde.pdf
+ /?api=1&query=An+den+Ziegeleien+16%2C+14943+Luckenwalde\nGegnerblatt: noch
+  nicht erstellt
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-ATTACH;FMTTYPE=application/pdf;FILENAME=2026-09-12_A-Junioren_FSV-63-Lucken
- walde.pdf:https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2
- 026-09-12_A-Junioren_FSV-63-Luckenwalde.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:610089030@flb.de
@@ -127,10 +123,15 @@ DESCRIPTION:SV Wacker 09 Cottbus-Ströbitz – FSV Bernau\nWettbewerb: A-Ju
  ower Str. 12\, 03046 Cottbus\nDatum: Samstag\, 19.09.2026\nAnstoß: 13:00 
  Uhr\nAnreise: 11:45 Uhr\nEnde: 15:15 Uhr\nPlatzart: Kunstrasenplatz\nAufst
  ellung: alle Spieler\nAnfahrt: https://www.google.com/maps/search/?api=1&q
- uery=Zahsower+Str.+12%2C+03046+Cottbus\nGegnerblatt: noch nicht erstellt
+ uery=Zahsower+Str.+12%2C+03046+Cottbus\nGegnerblatt: https://cdn.jsdelivr.
+ net/gh/XN-ds582/wacker-spielplan/blaetter/2026-09-19_A-Junioren_FSV-Bernau
+ .pdf
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
+ATTACH;FMTTYPE=application/pdf;FILENAME=2026-09-19_A-Junioren_FSV-Bernau.pd
+ f:https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2026-09-1
+ 9_A-Junioren_FSV-Bernau.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:610089037@flb.de
