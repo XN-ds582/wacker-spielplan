@@ -311,22 +311,22 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:610089093@flb.de
-DTSTAMP:20260827T194905Z
-LAST-MODIFIED:20260827T194905Z
+DTSTAMP:20260917T150002Z
+LAST-MODIFIED:20260917T150002Z
 DTSTART;TZID=Europe/Berlin:20270220T094500
 DTEND;TZID=Europe/Berlin:20270220T131500
-SEQUENCE:3
+SEQUENCE:4
 SUMMARY:A-Junioren: FSV Bernau – SV Wacker 09 Cottbus-Ströbitz
-LOCATION:Rathausplatz\, Kunstrasen\, Gottlieb-Daimler-Str.\, 16321 Bernau b
- ei Berlin
+LOCATION:Rathausplatz\, Kunstrasen\, Gottlieb-Daimler-Straße \, 16321 Bern
+ au bei Berlin
 DESCRIPTION:FSV Bernau – SV Wacker 09 Cottbus-Ströbitz\nWettbewerb: A-Ju
  nioren · Verbandsliga · Brandenburgliga\nAnsetzung: 14. Spieltag · Ausw
  ärtsspiel\nSpielkennung: 610089093\nSpielort: Rathausplatz\, Kunstrasen\,
-  Gottlieb-Daimler-Str.\, 16321 Bernau bei Berlin\nDatum: Samstag\, 20.02.2
- 027\nAnstoß: 11:00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13:15 Uhr\nPlatzart: Ku
- nstrasenplatz\nAufstellung: alle Spieler\nAnfahrt: https://www.google.com/
- maps/search/?api=1&query=Gottlieb-Daimler-Str.%2C+16321+Bernau+bei+Berlin\
- nGegnerblatt: noch nicht erstellt
+  Gottlieb-Daimler-Straße \, 16321 Bernau bei Berlin\nDatum: Samstag\, 20.
+ 02.2027\nAnstoß: 11:00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13:15 Uhr\nPlatzart
+ : Kunstrasenplatz\nAufstellung: alle Spieler\nAnfahrt: https://www.google.
+ com/maps/search/?api=1&query=Gottlieb-Daimler-Stra%C3%9Fe+%2C+16321+Bernau
+ +bei+Berlin\nGegnerblatt: noch nicht erstellt
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
