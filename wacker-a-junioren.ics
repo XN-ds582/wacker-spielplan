@@ -123,15 +123,10 @@ DESCRIPTION:SV Wacker 09 Cottbus-Ströbitz – FSV Bernau\nWettbewerb: A-Ju
  ower Str. 12\, 03046 Cottbus\nDatum: Samstag\, 19.09.2026\nAnstoß: 13:00 
  Uhr\nAnreise: 11:45 Uhr\nEnde: 15:15 Uhr\nPlatzart: Kunstrasenplatz\nAufst
  ellung: alle Spieler\nAnfahrt: https://www.google.com/maps/search/?api=1&q
- uery=Zahsower+Str.+12%2C+03046+Cottbus\nGegnerblatt: https://cdn.jsdelivr.
- net/gh/XN-ds582/wacker-spielplan/blaetter/2026-09-19_A-Junioren_FSV-Bernau
- .pdf
+ uery=Zahsower+Str.+12%2C+03046+Cottbus\nGegnerblatt: noch nicht erstellt
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-ATTACH;FMTTYPE=application/pdf;FILENAME=2026-09-19_A-Junioren_FSV-Bernau.pd
- f:https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2026-09-1
- 9_A-Junioren_FSV-Bernau.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:610089037@flb.de
@@ -150,10 +145,14 @@ DESCRIPTION:SV Wacker 09 Cottbus-Ströbitz – SpG Hansa Wittstock / Meyenb
  2026\nAnstoß: 13:00 Uhr\nAnreise: 11:45 Uhr\nEnde: 15:15 Uhr\nPlatzart: K
  unstrasenplatz\nAufstellung: alle Spieler\nAnfahrt: https://www.google.com
  /maps/search/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\nGegnerblatt: 
- noch nicht erstellt
+ https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2026-10-03_
+ A-Junioren_SpG-Hansa-Wittstock-Meyenburg.pdf
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
+ATTACH;FMTTYPE=application/pdf;FILENAME=2026-10-03_A-Junioren_SpG-Hansa-Wit
+ tstock-Meyenburg.pdf:https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan
+ /blaetter/2026-10-03_A-Junioren_SpG-Hansa-Wittstock-Meyenburg.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:610089049@flb.de
