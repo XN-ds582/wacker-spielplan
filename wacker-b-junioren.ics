@@ -131,15 +131,11 @@ DESCRIPTION:SV Wacker 09 Cottbus-Ströbitz – FSV Union Fürstenwalde\nWet
  er\, Zahsower Str. 12\, 03046 Cottbus\nDatum: Sonntag\, 20.09.2026\nAnsto
  ß: 11:00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13:05 Uhr\nPlatzart: Kunstrasenpl
  atz\nAufstellung: alle Spieler\nAnfahrt: https://www.google.com/maps/searc
- h/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\nGegnerblatt: https://cdn
- .jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2026-09-20_B1_FSV-Unio
- n-Fuerstenwalde.pdf
+ h/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\nGegnerblatt: noch nicht 
+ erstellt
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-ATTACH;FMTTYPE=application/pdf;FILENAME=2026-09-20_B1_FSV-Union-Fuerstenwal
- de.pdf:https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2026
- -09-20_B1_FSV-Union-Fuerstenwalde.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:610152021@flb.de
@@ -223,10 +219,15 @@ DESCRIPTION:SpG FSV Optik Rathenow/TSV Chemie Premnitz – SV Wacker 09 Cot
  tz 2\, Birkenweg 45\, 14712 Rathenow\nDatum: Samstag\, 26.09.2026\nAnstoß
  : 11:00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13:05 Uhr\nPlatzart: Rasenplatz\nAu
  fstellung: alle Spieler\nAnfahrt: https://www.google.com/maps/search/?api=
- 1&query=Birkenweg+45%2C+14712+Rathenow\nGegnerblatt: noch nicht erstellt
+ 1&query=Birkenweg+45%2C+14712+Rathenow\nGegnerblatt: https://cdn.jsdelivr.
+ net/gh/XN-ds582/wacker-spielplan/blaetter/2026-09-26_B1_SpG-FSV-Optik-Rath
+ enow-TSV-Chemie-Premni.pdf
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
+ATTACH;FMTTYPE=application/pdf;FILENAME=2026-09-26_B1_SpG-FSV-Optik-Ratheno
+ w-TSV-Chemie-Premni.pdf:https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielp
+ lan/blaetter/2026-09-26_B1_SpG-FSV-Optik-Rathenow-TSV-Chemie-Premni.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:810003065@flb.de
