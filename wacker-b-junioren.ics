@@ -153,11 +153,15 @@ DESCRIPTION:SV Wacker 09 Cottbus-Ströbitz – SV 1908 Grün-Weiss Ahrensfe
  Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus\nDatum: Sonntag\, 04.10.2026
  \nAnstoß: 11:00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13:05 Uhr\nPlatzart: Kunst
  rasenplatz\nAufstellung: alle Spieler\nAnfahrt: https://www.google.com/map
- s/search/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\nGegnerblatt: noch
-  nicht erstellt
+ s/search/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\nGegnerblatt: http
+ s://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2026-10-04_B1_S
+ V-1908-Gruen-Weiss-Ahrensfelde.pdf
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
+ATTACH;FMTTYPE=application/pdf;FILENAME=2026-10-04_B1_SV-1908-Gruen-Weiss-A
+ hrensfelde.pdf:https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaet
+ ter/2026-10-04_B1_SV-1908-Gruen-Weiss-Ahrensfelde.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:610152028@flb.de
@@ -219,15 +223,10 @@ DESCRIPTION:SpG FSV Optik Rathenow/TSV Chemie Premnitz – SV Wacker 09 Cot
  tz 2\, Birkenweg 45\, 14712 Rathenow\nDatum: Samstag\, 26.09.2026\nAnstoß
  : 11:00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13:05 Uhr\nPlatzart: Rasenplatz\nAu
  fstellung: alle Spieler\nAnfahrt: https://www.google.com/maps/search/?api=
- 1&query=Birkenweg+45%2C+14712+Rathenow\nGegnerblatt: https://cdn.jsdelivr.
- net/gh/XN-ds582/wacker-spielplan/blaetter/2026-09-26_B1_SpG-FSV-Optik-Rath
- enow-TSV-Chemie-Premni.pdf
+ 1&query=Birkenweg+45%2C+14712+Rathenow\nGegnerblatt: noch nicht erstellt
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-ATTACH;FMTTYPE=application/pdf;FILENAME=2026-09-26_B1_SpG-FSV-Optik-Ratheno
- w-TSV-Chemie-Premni.pdf:https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielp
- lan/blaetter/2026-09-26_B1_SpG-FSV-Optik-Rathenow-TSV-Chemie-Premni.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:810003065@flb.de
