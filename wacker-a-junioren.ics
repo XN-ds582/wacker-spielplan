@@ -145,14 +145,10 @@ DESCRIPTION:SV Wacker 09 Cottbus-Ströbitz – SpG Hansa Wittstock / Meyenb
  2026\nAnstoß: 13:00 Uhr\nAnreise: 11:45 Uhr\nEnde: 15:15 Uhr\nPlatzart: K
  unstrasenplatz\nAufstellung: alle Spieler\nAnfahrt: https://www.google.com
  /maps/search/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\nGegnerblatt: 
- https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2026-10-03_
- A-Junioren_SpG-Hansa-Wittstock-Meyenburg.pdf
+ noch nicht erstellt
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-ATTACH;FMTTYPE=application/pdf;FILENAME=2026-10-03_A-Junioren_SpG-Hansa-Wit
- tstock-Meyenburg.pdf:https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan
- /blaetter/2026-10-03_A-Junioren_SpG-Hansa-Wittstock-Meyenburg.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:610089049@flb.de
@@ -170,11 +166,15 @@ DESCRIPTION:SV Falkensee-Finkenkrug – SV Wacker 09 Cottbus-Ströbitz\nWet
  straße\, Hauptplatz\, Rosenstr.\, 14612 Falkensee\nDatum: Sonntag\, 11.10
  .2026\nAnstoß: 12:00 Uhr\nAnreise: 10:45 Uhr\nEnde: 14:15 Uhr\nPlatzart: 
  Rasenplatz\nAufstellung: alle Spieler\nAnfahrt: https://www.google.com/map
- s/search/?api=1&query=Rosenstr.%2C+14612+Falkensee\nGegnerblatt: noch nich
- t erstellt
+ s/search/?api=1&query=Rosenstr.%2C+14612+Falkensee\nGegnerblatt: https://c
+ dn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2026-10-11_A-Juniore
+ n_SV-Falkensee-Finkenkrug.pdf
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
+ATTACH;FMTTYPE=application/pdf;FILENAME=2026-10-11_A-Junioren_SV-Falkensee-
+ Finkenkrug.pdf:https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaet
+ ter/2026-10-11_A-Junioren_SV-Falkensee-Finkenkrug.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:610089054@flb.de
