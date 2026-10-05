@@ -153,15 +153,11 @@ DESCRIPTION:SV Wacker 09 Cottbus-Ströbitz – SV 1908 Grün-Weiss Ahrensfe
  Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus\nDatum: Sonntag\, 04.10.2026
  \nAnstoß: 11:00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13:05 Uhr\nPlatzart: Kunst
  rasenplatz\nAufstellung: alle Spieler\nAnfahrt: https://www.google.com/map
- s/search/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\nGegnerblatt: http
- s://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2026-10-04_B1_S
- V-1908-Gruen-Weiss-Ahrensfelde.pdf
+ s/search/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\nGegnerblatt: noch
+  nicht erstellt
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-ATTACH;FMTTYPE=application/pdf;FILENAME=2026-10-04_B1_SV-1908-Gruen-Weiss-A
- hrensfelde.pdf:https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaet
- ter/2026-10-04_B1_SV-1908-Gruen-Weiss-Ahrensfelde.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:610152028@flb.de
@@ -180,10 +176,14 @@ DESCRIPTION:1. FC Frankfurt/O. – SV Wacker 09 Cottbus-Ströbitz\nWettbewe
  um: Samstag\, 10.10.2026\nAnstoß: 11:00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13
  :05 Uhr\nPlatzart: Rasenplatz\nAufstellung: alle Spieler\nAnfahrt: https:/
  /www.google.com/maps/search/?api=1&query=Buschm%C3%BChlenweg+172%2C+15230+
- Frankfurt+%28Oder%29\nGegnerblatt: noch nicht erstellt
+ Frankfurt+%28Oder%29\nGegnerblatt: https://cdn.jsdelivr.net/gh/XN-ds582/wa
+ cker-spielplan/blaetter/2026-10-10_B1_1-FC-Frankfurt-O.pdf
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
+ATTACH;FMTTYPE=application/pdf;FILENAME=2026-10-10_B1_1-FC-Frankfurt-O.pdf:
+ https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2026-10-10_
+ B1_1-FC-Frankfurt-O.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:690004137@flb.de
