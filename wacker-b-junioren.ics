@@ -161,23 +161,23 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:610152028@flb.de
-DTSTAMP:20260827T194905Z
-LAST-MODIFIED:20260827T194905Z
+DTSTAMP:20261008T110622Z
+LAST-MODIFIED:20261008T110622Z
 DTSTART;TZID=Europe/Berlin:20261010T094500
 DTEND;TZID=Europe/Berlin:20261010T130500
-SEQUENCE:4
+SEQUENCE:5
 SUMMARY:B-Junioren: 1. FC Frankfurt/O. – SV Wacker 09 Cottbus-Ströbitz
-LOCATION:Stadion der Freundschaft\, Dieter-Schulz-Platz\, Buschmühlenweg 1
- 72\, 15230 Frankfurt (Oder)
+LOCATION:Stadion der Freundschaft\, Kunstrasen\, Buschmühlenweg 172\, 1523
+ 0 Frankfurt (Oder)
 DESCRIPTION:1. FC Frankfurt/O. – SV Wacker 09 Cottbus-Ströbitz\nWettbewe
  rb: B-Junioren · Landesliga · BBL Staffel 2\nAnsetzung: 7. Spieltag · A
  uswärtsspiel\nSpielkennung: 610152028\nSpielort: Stadion der Freundschaft
- \, Dieter-Schulz-Platz\, Buschmühlenweg 172\, 15230 Frankfurt (Oder)\nDat
- um: Samstag\, 10.10.2026\nAnstoß: 11:00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13
- :05 Uhr\nPlatzart: Rasenplatz\nAufstellung: alle Spieler\nAnfahrt: https:/
- /www.google.com/maps/search/?api=1&query=Buschm%C3%BChlenweg+172%2C+15230+
- Frankfurt+%28Oder%29\nGegnerblatt: https://cdn.jsdelivr.net/gh/XN-ds582/wa
- cker-spielplan/blaetter/2026-10-10_B1_1-FC-Frankfurt-O.pdf
+ \, Kunstrasen\, Buschmühlenweg 172\, 15230 Frankfurt (Oder)\nDatum: Samst
+ ag\, 10.10.2026\nAnstoß: 11:00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13:05 Uhr\n
+ Platzart: Kunstrasenplatz\nAufstellung: alle Spieler\nAnfahrt: https://www
+ .google.com/maps/search/?api=1&query=Buschm%C3%BChlenweg+172%2C+15230+Fran
+ kfurt+%28Oder%29\nGegnerblatt: https://cdn.jsdelivr.net/gh/XN-ds582/wacker
+ -spielplan/blaetter/2026-10-10_B1_1-FC-Frankfurt-O.pdf
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
@@ -224,6 +224,27 @@ DESCRIPTION:SpG FSV Optik Rathenow/TSV Chemie Premnitz – SV Wacker 09 Cot
  : 11:00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13:05 Uhr\nPlatzart: Rasenplatz\nAu
  fstellung: alle Spieler\nAnfahrt: https://www.google.com/maps/search/?api=
  1&query=Birkenweg+45%2C+14712+Rathenow\nGegnerblatt: noch nicht erstellt
+CATEGORIES:B-Junioren
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:710074002@flb.de
+DTSTAMP:20261008T110622Z
+LAST-MODIFIED:20261008T110622Z
+DTSTART;TZID=Europe/Berlin:20261031T094500
+DTEND;TZID=Europe/Berlin:20261031T130500
+SEQUENCE:0
+SUMMARY:B-Junioren: SV Wacker 09 Cottbus-Ströbitz – SV 1908 Grün-Weiss 
+ Ahrensfelde
+LOCATION:
+DESCRIPTION:SV Wacker 09 Cottbus-Ströbitz – SV 1908 Grün-Weiss Ahrensfe
+ lde\nWettbewerb: B-Junioren · Brandenburg-Pokal\nAnsetzung: Heimspiel\nSp
+ ielkennung: 710074002\nSpielort: nicht hinterlegt\nDatum: Samstag\, 31.10.
+ 2026\nAnstoß: 11:00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13:05 Uhr\nPlatzart: n
+ icht hinterlegt\nAufstellung: alle Spieler\nAnfahrt: https://www.google.co
+ m/maps/search/?api=1&query=SV+Wacker+09+Cottbus-Str%C3%B6bitz\nGegnerblatt
+ : noch nicht erstellt
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED

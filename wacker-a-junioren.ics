@@ -594,6 +594,29 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:710069010@flb.de
+DTSTAMP:20261008T110622Z
+LAST-MODIFIED:20261008T110622Z
+DTSTART;TZID=Europe/Berlin:20261101T094500
+DTEND;TZID=Europe/Berlin:20261101T131500
+SEQUENCE:1
+SUMMARY:A-Junioren: Werderaner FC Viktoria 1920 – SV Wacker 09 Cottbus-St
+ röbitz
+LOCATION:Arno-Franz-Sportplatz Werder\, KR\, Werderwiesen 16\, 14542 Werder
+  (Havel)
+DESCRIPTION:Werderaner FC Viktoria 1920 – SV Wacker 09 Cottbus-Ströbitz\
+ nWettbewerb: A-Junioren · Brandenburg-Pokal\nAnsetzung: Auswärtsspiel\nS
+ pielkennung: 710069010\nSpielort: Arno-Franz-Sportplatz Werder\, KR\, Werd
+ erwiesen 16\, 14542 Werder (Havel)\nDatum: Sonntag\, 01.11.2026\nAnstoß: 
+ 11:00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13:15 Uhr\nPlatzart: Kunstrasenplatz\
+ nAufstellung: alle Spieler\nAnfahrt: https://www.google.com/maps/search/?a
+ pi=1&query=Werderwiesen+16%2C+14542+Werder+%28Havel%29\nGegnerblatt: noch 
+ nicht erstellt
+CATEGORIES:A-Junioren
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:810007003@flb.de
 DTSTAMP:20260827T194905Z
 LAST-MODIFIED:20260827T194905Z
