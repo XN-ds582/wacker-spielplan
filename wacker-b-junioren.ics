@@ -528,22 +528,23 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:710074002@flb.de
-DTSTAMP:20261022T150020Z
-LAST-MODIFIED:20261022T150020Z
+DTSTAMP:20261027T160020Z
+LAST-MODIFIED:20261027T160020Z
 DTSTART;TZID=Europe/Berlin:20261031T104500
 DTEND;TZID=Europe/Berlin:20261031T140500
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:B-Junioren: SV Wacker 09 Cottbus-Ströbitz – SV 1908 Grün-Weiss 
  Ahrensfelde
-LOCATION:
+LOCATION:Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus
 DESCRIPTION:SV Wacker 09 Cottbus-Ströbitz – SV 1908 Grün-Weiss Ahrensfe
  lde\nWettbewerb: B-Junioren · Brandenburg-Pokal\nAnsetzung: Heimspiel\nSp
- ielkennung: 710074002\nSpielort: nicht hinterlegt\nDatum: Samstag\, 31.10.
- 2026\nAnstoß: 12:00 Uhr\nAnreise: 10:45 Uhr\nEnde: 14:05 Uhr\nPlatzart: n
- icht hinterlegt\nAufstellung: alle Spieler\nAnfahrt: https://www.google.co
- m/maps/search/?api=1&query=SV+Wacker+09+Cottbus-Str%C3%B6bitz\nGegnerblatt
- : https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2026-10-3
- 1_B1_SV-1908-Gruen-Weiss-Ahrensfelde.pdf
+ ielkennung: 710074002\nSpielort: Kunstrasenplatz Auf Wacker\, Zahsower Str
+ . 12\, 03046 Cottbus\nDatum: Samstag\, 31.10.2026\nAnstoß: 12:00 Uhr\nAnr
+ eise: 10:45 Uhr\nEnde: 14:05 Uhr\nPlatzart: Kunstrasenplatz\nAufstellung: 
+ alle Spieler\nAnfahrt: https://www.google.com/maps/search/?api=1&query=Zah
+ sower+Str.+12%2C+03046+Cottbus\nGegnerblatt: https://cdn.jsdelivr.net/gh/X
+ N-ds582/wacker-spielplan/blaetter/2026-10-31_B1_SV-1908-Gruen-Weiss-Ahrens
+ felde.pdf
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
