@@ -196,11 +196,15 @@ DESCRIPTION:SV Wacker 09 Cottbus-Ströbitz – SV Babelsberg 03 II\nWettbew
  Wacker\, Zahsower Str. 12\, 03046 Cottbus\nDatum: Sonntag\, 08.11.2026\nAn
  stoß: 11:00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13:05 Uhr\nPlatzart: Kunstrase
  nplatz\nAufstellung: alle Spieler\nAnfahrt: https://www.google.com/maps/se
- arch/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\nGegnerblatt: noch nic
- ht erstellt
+ arch/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\nGegnerblatt: https://
+ cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2026-11-08_B1_SV-Ba
+ belsberg-03-II.pdf
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
+ATTACH;FMTTYPE=application/pdf;FILENAME=2026-11-08_B1_SV-Babelsberg-03-II.p
+ df:https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2026-11-
+ 08_B1_SV-Babelsberg-03-II.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:610224005@flb.de
@@ -542,15 +546,10 @@ DESCRIPTION:SV Wacker 09 Cottbus-Ströbitz – SV 1908 Grün-Weiss Ahrensfe
  . 12\, 03046 Cottbus\nDatum: Samstag\, 31.10.2026\nAnstoß: 12:00 Uhr\nAnr
  eise: 10:45 Uhr\nEnde: 14:05 Uhr\nPlatzart: Kunstrasenplatz\nAufstellung: 
  alle Spieler\nAnfahrt: https://www.google.com/maps/search/?api=1&query=Zah
- sower+Str.+12%2C+03046+Cottbus\nGegnerblatt: https://cdn.jsdelivr.net/gh/X
- N-ds582/wacker-spielplan/blaetter/2026-10-31_B1_SV-1908-Gruen-Weiss-Ahrens
- felde.pdf
+ sower+Str.+12%2C+03046+Cottbus\nGegnerblatt: noch nicht erstellt
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-ATTACH;FMTTYPE=application/pdf;FILENAME=2026-10-31_B1_SV-1908-Gruen-Weiss-A
- hrensfelde.pdf:https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaet
- ter/2026-10-31_B1_SV-1908-Gruen-Weiss-Ahrensfelde.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:810003065@flb.de
