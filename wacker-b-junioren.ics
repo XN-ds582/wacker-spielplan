@@ -552,6 +552,26 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:710074012@flb.de
+DTSTAMP:20261106T160008Z
+LAST-MODIFIED:20261106T160008Z
+DTSTART;TZID=Europe/Berlin:20261212T091500
+DTEND;TZID=Europe/Berlin:20261212T123500
+SEQUENCE:1
+SUMMARY:B-Junioren: SV Wacker 09 Cottbus-Ströbitz – SV Babelsberg 03 I
+LOCATION:Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 Cottbus
+DESCRIPTION:SV Wacker 09 Cottbus-Ströbitz – SV Babelsberg 03 I\nWettbewe
+ rb: B-Junioren · Brandenburg-Pokal\nAnsetzung: Heimspiel\nSpielkennung: 7
+ 10074012\nSpielort: Kunstrasenplatz Auf Wacker\, Zahsower Str. 12\, 03046 
+ Cottbus\nDatum: Samstag\, 12.12.2026\nAnstoß: 10:30 Uhr\nAnreise: 09:15 U
+ hr\nEnde: 12:35 Uhr\nPlatzart: Kunstrasenplatz\nAufstellung: alle Spieler\
+ nAnfahrt: https://www.google.com/maps/search/?api=1&query=Zahsower+Str.+12
+ %2C+03046+Cottbus\nGegnerblatt: noch nicht erstellt
+CATEGORIES:B-Junioren
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:810003065@flb.de
 DTSTAMP:20260827T194905Z
 LAST-MODIFIED:20260827T194905Z
