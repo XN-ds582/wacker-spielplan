@@ -189,14 +189,10 @@ DESCRIPTION:SV 1908 Grün-Weiss Ahrensfelde – SV Wacker 09 Cottbus-Ströb
  1.2026\nAnstoß: 13:00 Uhr\nAnreise: 11:45 Uhr\nEnde: 15:15 Uhr\nPlatzart:
   Kunstrasenplatz\nAufstellung: alle Spieler\nAnfahrt: https://www.google.c
  om/maps/search/?api=1&query=Ulmenallee+42%2C+16356+Ahrensfelde\nGegnerblat
- t: https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2026-11-
- 07_A-Junioren_SV-1908-Gruen-Weiss-Ahrensfelde.pdf
+ t: noch nicht erstellt
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-ATTACH;FMTTYPE=application/pdf;FILENAME=2026-11-07_A-Junioren_SV-1908-Gruen
- -Weiss-Ahrensfelde.pdf:https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielpl
- an/blaetter/2026-11-07_A-Junioren_SV-1908-Gruen-Weiss-Ahrensfelde.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:610089058@flb.de
@@ -214,11 +210,15 @@ DESCRIPTION:SV Wacker 09 Cottbus-Ströbitz – Brandenburger SC Süd 05\nWe
   Wacker\, Zahsower Str. 12\, 03046 Cottbus\nDatum: Samstag\, 14.11.2026\nA
  nstoß: 13:00 Uhr\nAnreise: 11:45 Uhr\nEnde: 15:15 Uhr\nPlatzart: Kunstras
  enplatz\nAufstellung: alle Spieler\nAnfahrt: https://www.google.com/maps/s
- earch/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\nGegnerblatt: noch ni
- cht erstellt
+ earch/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\nGegnerblatt: https:/
+ /cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2026-11-14_A-Junio
+ ren_Brandenburger-SC-Sued-05.pdf
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
+ATTACH;FMTTYPE=application/pdf;FILENAME=2026-11-14_A-Junioren_Brandenburger
+ -SC-Sued-05.pdf:https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blae
+ tter/2026-11-14_A-Junioren_Brandenburger-SC-Sued-05.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:610089066@flb.de
