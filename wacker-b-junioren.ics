@@ -196,15 +196,11 @@ DESCRIPTION:SV Wacker 09 Cottbus-Ströbitz – SV Babelsberg 03 II\nWettbew
  Wacker\, Zahsower Str. 12\, 03046 Cottbus\nDatum: Sonntag\, 08.11.2026\nAn
  stoß: 11:00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13:05 Uhr\nPlatzart: Kunstrase
  nplatz\nAufstellung: alle Spieler\nAnfahrt: https://www.google.com/maps/se
- arch/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\nGegnerblatt: https://
- cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2026-11-08_B1_SV-Ba
- belsberg-03-II.pdf
+ arch/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\nGegnerblatt: noch nic
+ ht erstellt
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-ATTACH;FMTTYPE=application/pdf;FILENAME=2026-11-08_B1_SV-Babelsberg-03-II.p
- df:https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2026-11-
- 08_B1_SV-Babelsberg-03-II.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:610224005@flb.de
@@ -223,10 +219,14 @@ DESCRIPTION:SV 1908 Grün-Weiss Ahrensfelde – SV Wacker 09 Cottbus-Ströb
  15.11.2026\nAnstoß: 11:30 Uhr\nAnreise: 10:15 Uhr\nEnde: 13:35 Uhr\nPlatz
  art: Kunstrasenplatz\nAufstellung: alle Spieler\nAnfahrt: https://www.goog
  le.com/maps/search/?api=1&query=Ulmenallee+42%2C+16356+Ahrensfelde\nGegner
- blatt: noch nicht erstellt
+ blatt: https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2026
+ -11-15_B1_SV-1908-Gruen-Weiss-Ahrensfelde.pdf
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
+ATTACH;FMTTYPE=application/pdf;FILENAME=2026-11-15_B1_SV-1908-Gruen-Weiss-A
+ hrensfelde.pdf:https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaet
+ ter/2026-11-15_B1_SV-1908-Gruen-Weiss-Ahrensfelde.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:610224010@flb.de
@@ -589,6 +589,27 @@ DESCRIPTION:SpG Kunersdorf/Kolkwitz/Krieschow/Klein GaglowB1 – SV Wacker
  llung: alle Spieler\nAnfahrt: https://www.google.com/maps/search/?api=1&qu
  ery=Bergstra%C3%9Fe+26%2C+03099+Kolkwitz\nGegnerblatt: kein Blatt (Freunds
  chaftsspiel)
+CATEGORIES:B-Junioren
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:810003137@flb.de
+DTSTAMP:20261109T160008Z
+LAST-MODIFIED:20261109T160008Z
+DTSTART;TZID=Europe/Berlin:20261119T164500
+DTEND;TZID=Europe/Berlin:20261119T200500
+SEQUENCE:1
+SUMMARY:B-Junioren: SV Wacker 09 B1 – FC Energie Cottbus U16
+LOCATION:Sportplatz am Priorgraben\, KR\, Am Priorgraben 53a\, 03048 Cottbu
+ s
+DESCRIPTION:SV Wacker 09 B1 – FC Energie Cottbus U16\nWettbewerb: B-Junio
+ ren · Landesfreundschaftsspiele\nAnsetzung: Heimspiel\nSpielkennung: 8100
+ 03137\nSpielort: Sportplatz am Priorgraben\, KR\, Am Priorgraben 53a\, 030
+ 48 Cottbus\nDatum: Donnerstag\, 19.11.2026\nAnstoß: 18:00 Uhr\nAnreise: 1
+ 6:45 Uhr\nEnde: 20:05 Uhr\nPlatzart: Kunstrasenplatz\nAufstellung: alle Sp
+ ieler\nAnfahrt: https://www.google.com/maps/search/?api=1&query=Am+Priorgr
+ aben+53a%2C+03048+Cottbus\nGegnerblatt: kein Blatt (Freundschaftsspiel)
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
