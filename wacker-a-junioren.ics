@@ -210,15 +210,11 @@ DESCRIPTION:SV Wacker 09 Cottbus-Ströbitz – Brandenburger SC Süd 05\nWe
   Wacker\, Zahsower Str. 12\, 03046 Cottbus\nDatum: Samstag\, 14.11.2026\nA
  nstoß: 13:00 Uhr\nAnreise: 11:45 Uhr\nEnde: 15:15 Uhr\nPlatzart: Kunstras
  enplatz\nAufstellung: alle Spieler\nAnfahrt: https://www.google.com/maps/s
- earch/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\nGegnerblatt: https:/
- /cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2026-11-14_A-Junio
- ren_Brandenburger-SC-Sued-05.pdf
+ earch/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\nGegnerblatt: noch ni
+ cht erstellt
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-ATTACH;FMTTYPE=application/pdf;FILENAME=2026-11-14_A-Junioren_Brandenburger
- -SC-Sued-05.pdf:https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blae
- tter/2026-11-14_A-Junioren_Brandenburger-SC-Sued-05.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:610089066@flb.de
@@ -238,10 +234,14 @@ DESCRIPTION:Werderaner FC Viktoria 1920 – SV Wacker 09 Cottbus-Ströbitz\
  onntag\, 22.11.2026\nAnstoß: 13:00 Uhr\nAnreise: 11:45 Uhr\nEnde: 15:15 U
  hr\nPlatzart: Kunstrasenplatz\nAufstellung: alle Spieler\nAnfahrt: https:/
  /www.google.com/maps/search/?api=1&query=Werderwiesen+16%2C+14542+Werder+%
- 28Havel%29\nGegnerblatt: noch nicht erstellt
+ 28Havel%29\nGegnerblatt: https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spiel
+ plan/blaetter/2026-11-22_A-Junioren_Werderaner-FC-Viktoria-1920.pdf
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
+ATTACH;FMTTYPE=application/pdf;FILENAME=2026-11-22_A-Junioren_Werderaner-FC
+ -Viktoria-1920.pdf:https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/b
+ laetter/2026-11-22_A-Junioren_Werderaner-FC-Viktoria-1920.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:610089071@flb.de
