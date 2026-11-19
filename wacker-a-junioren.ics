@@ -639,6 +639,28 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:810003141@flb.de
+DTSTAMP:20261119T160030Z
+LAST-MODIFIED:20261119T160030Z
+DTSTART;TZID=Europe/Berlin:20270213T101500
+DTEND;TZID=Europe/Berlin:20270213T134500
+SEQUENCE:1
+SUMMARY:A-Junioren: 1. FC Frankfurt – SV Wacker 09 A-Junioren
+LOCATION:Stadion der Freundschaft\, Kunstrasen\, Buschmühlenweg 172\, 1523
+ 0 Frankfurt (Oder)
+DESCRIPTION:1. FC Frankfurt – SV Wacker 09 A-Junioren\nWettbewerb: A-Juni
+ oren · Landesfreundschaftsspiele\nAnsetzung: Auswärtsspiel\nSpielkennung
+ : 810003141\nSpielort: Stadion der Freundschaft\, Kunstrasen\, Buschmühle
+ nweg 172\, 15230 Frankfurt (Oder)\nDatum: Samstag\, 13.02.2027\nAnstoß: 1
+ 1:30 Uhr\nAnreise: 10:15 Uhr\nEnde: 13:45 Uhr\nPlatzart: Kunstrasenplatz\n
+ Aufstellung: alle Spieler\nAnfahrt: https://www.google.com/maps/search/?ap
+ i=1&query=Buschm%C3%BChlenweg+172%2C+15230+Frankfurt+%28Oder%29\nGegnerbla
+ tt: kein Blatt (Freundschaftsspiel)
+CATEGORIES:A-Junioren
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:810007003@flb.de
 DTSTAMP:20260827T194905Z
 LAST-MODIFIED:20260827T194905Z
