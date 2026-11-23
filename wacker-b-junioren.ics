@@ -241,14 +241,10 @@ DESCRIPTION:SV Wacker 09 Cottbus-Ströbitz – SpG Optik Rathenow/Premnitz\
  2026\nAnstoß: 11:00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13:05 Uhr\nPlatzart: K
  unstrasenplatz\nAufstellung: alle Spieler\nAnfahrt: https://www.google.com
  /maps/search/?api=1&query=Zahsower+Str.+12%2C+03046+Cottbus\nGegnerblatt: 
- https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2026-11-22_
- B1_SpG-Optik-Rathenow-Premnitz.pdf
+ noch nicht erstellt
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-ATTACH;FMTTYPE=application/pdf;FILENAME=2026-11-22_B1_SpG-Optik-Rathenow-Pr
- emnitz.pdf:https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/
- 2026-11-22_B1_SpG-Optik-Rathenow-Premnitz.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:610224015@flb.de
@@ -265,11 +261,15 @@ DESCRIPTION:SG Bornim – SV Wacker 09 Cottbus-Ströbitz\nWettbewerb: B-Jun
  Golmer Chaussee 12\, 14469 Potsdam\nDatum: Sonntag\, 29.11.2026\nAnstoß: 
  13:00 Uhr\nAnreise: 11:45 Uhr\nEnde: 15:05 Uhr\nPlatzart: Kunstrasenplatz\
  nAufstellung: alle Spieler\nAnfahrt: https://www.google.com/maps/search/?a
- pi=1&query=Golmer+Chaussee+12%2C+14469+Potsdam\nGegnerblatt: noch nicht er
- stellt
+ pi=1&query=Golmer+Chaussee+12%2C+14469+Potsdam\nGegnerblatt: https://cdn.j
+ sdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2026-11-29_B1_SG-Bornim.
+ pdf
 CATEGORIES:B-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
+ATTACH;FMTTYPE=application/pdf;FILENAME=2026-11-29_B1_SG-Bornim.pdf:https:/
+ /cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2026-11-29_B1_SG-B
+ ornim.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:610224017@flb.de
