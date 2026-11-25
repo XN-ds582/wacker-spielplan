@@ -248,18 +248,18 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:610224015@flb.de
-DTSTAMP:20261022T150020Z
-LAST-MODIFIED:20261022T150020Z
-DTSTART;TZID=Europe/Berlin:20261129T114500
-DTEND;TZID=Europe/Berlin:20261129T150500
-SEQUENCE:2
+DTSTAMP:20261125T160031Z
+LAST-MODIFIED:20261125T160031Z
+DTSTART;TZID=Europe/Berlin:20261129T094500
+DTEND;TZID=Europe/Berlin:20261129T130500
+SEQUENCE:3
 SUMMARY:B-Junioren: SG Bornim – SV Wacker 09 Cottbus-Ströbitz
 LOCATION:Stephan-Albrecht-Platz\, Golmer Chaussee 12\, 14469 Potsdam
 DESCRIPTION:SG Bornim – SV Wacker 09 Cottbus-Ströbitz\nWettbewerb: B-Jun
  ioren · Landesliga · BBL Platzierungsrunde\nAnsetzung: 4. Spieltag · Au
  swärtsspiel\nSpielkennung: 610224015\nSpielort: Stephan-Albrecht-Platz\, 
  Golmer Chaussee 12\, 14469 Potsdam\nDatum: Sonntag\, 29.11.2026\nAnstoß: 
- 13:00 Uhr\nAnreise: 11:45 Uhr\nEnde: 15:05 Uhr\nPlatzart: Kunstrasenplatz\
+ 11:00 Uhr\nAnreise: 09:45 Uhr\nEnde: 13:05 Uhr\nPlatzart: Kunstrasenplatz\
  nAufstellung: alle Spieler\nAnfahrt: https://www.google.com/maps/search/?a
  pi=1&query=Golmer+Chaussee+12%2C+14469+Potsdam\nGegnerblatt: https://cdn.j
  sdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2026-11-29_B1_SG-Bornim.
