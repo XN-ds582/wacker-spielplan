@@ -256,10 +256,14 @@ DESCRIPTION:SV Germania 90 Schöneiche – SV Wacker 09 Cottbus-Ströbitz\n
  2026\nAnstoß: 13:00 Uhr\nAnreise: 11:45 Uhr\nEnde: 15:15 Uhr\nPlatzart: R
  asenplatz\nAufstellung: alle Spieler\nAnfahrt: https://www.google.com/maps
  /search/?api=1&query=Berliner+Stra%C3%9Fe+18%2C+15566+Sch%C3%B6neiche\nGeg
- nerblatt: noch nicht erstellt
+ nerblatt: https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2
+ 026-11-28_A-Junioren_SV-Germania-90-Schoeneiche.pdf
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
+ATTACH;FMTTYPE=application/pdf;FILENAME=2026-11-28_A-Junioren_SV-Germania-9
+ 0-Schoeneiche.pdf:https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/bl
+ aetter/2026-11-28_A-Junioren_SV-Germania-90-Schoeneiche.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:610089079@flb.de
@@ -606,15 +610,11 @@ DESCRIPTION:Werderaner FC Viktoria 1920 – SV Wacker 09 Cottbus-Ströbitz\
  erwiesen 16\, 14542 Werder (Havel)\nDatum: Mittwoch\, 25.11.2026\nAnstoß:
   19:00 Uhr\nAnreise: 17:45 Uhr\nEnde: 21:15 Uhr\nPlatzart: Kunstrasenplatz
  \nAufstellung: alle Spieler\nAnfahrt: https://www.google.com/maps/search/?
- api=1&query=Werderwiesen+16%2C+14542+Werder+%28Havel%29\nGegnerblatt: http
- s://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/blaetter/2026-11-25_A-Ju
- nioren_Werderaner-FC-Viktoria-1920.pdf
+ api=1&query=Werderwiesen+16%2C+14542+Werder+%28Havel%29\nGegnerblatt: noch
+  nicht erstellt
 CATEGORIES:A-Junioren
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-ATTACH;FMTTYPE=application/pdf;FILENAME=2026-11-25_A-Junioren_Werderaner-FC
- -Viktoria-1920.pdf:https://cdn.jsdelivr.net/gh/XN-ds582/wacker-spielplan/b
- laetter/2026-11-25_A-Junioren_Werderaner-FC-Viktoria-1920.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:810003113@flb.de
